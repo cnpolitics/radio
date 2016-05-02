@@ -3,16 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CNPolitics Radio
-subtitle:
-description:
-author: CNPolitics
+title: 政见
+subtitle: CNPolitcs Radio
+description: 拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华 radio.cnpolitics.org
+author: 政见 CNPolitics.org
+email: webmaster@cnpolitcs.org
+copyright: 政见 CNPolitics.org, all rights reserverd.
 language: default
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
+url: http://radio.cnpolitics.org
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -22,7 +24,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
-category_dir: categories
+category_dir: /
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -46,6 +48,8 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  政记干货大排档: pub
+  政好读书: read
 tag_map:
 
 # Date / Time format
@@ -69,3 +73,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Feeds
+feed:
+  type: rss2
+  path: feed.xml
+  limit: false
