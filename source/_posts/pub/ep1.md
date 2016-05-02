@@ -1,10 +1,14 @@
 ---
 title: 国民党选出女主席体现男女平权？
-date: 2016/03/31 20:30:00
+subtitle: 政党低迷期领袖之位吸引力不高、女性更容易上位？
+date: 2016/03/27 20:30:00
 permalink: ep1
-audio: http://m10.music.126.net/20160429052254/f638fa4702c3d6940351219f5e4745ad/ymusic/902e/ef3a/4efd/53f669e7aa1b427f1836f95c4bf5aebe.mp3
+author: 王菁
+audio: http://7xtl1z.com2.z0.glb.clouddn.com/pub/audio/ep1.mp3
+explicit: no
+cover: http://7xtl1z.com2.z0.glb.clouddn.com/pub/cover-v0.1.0.jpg
 categories:
-- pub
+- 政记干货大排档
 ---
 3 月 26 日，即将失去执政地位的国民党选出了首位女主席洪秀柱。
 
