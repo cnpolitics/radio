@@ -8,7 +8,7 @@ Copyright © 2011–2016 CNPolitics, all rights reserved.
 
 ### Feeds
 - 政见合集：<http://radio.cnpolitics.org/feed.xml>
-- 讲座&访谈：<http://radio.cnpolitics.org/scholar>
+- 讲座&访谈：<http://radio.cnpolitics.org/scholar/feed.xml>
 - 政记干货大排档：<http://radio.cnpolitics.org/pub/feed.xml>
 - 政常说话：<http://radio.cnpolitics.org/talk/feed.xml>
 - 政好读书：<http://radio.cnpolitics.org/read/feed.xml>
