@@ -4,9 +4,12 @@ The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo]
 
 Copyright © 2011–2016 CNPolitics, all rights reserved.
 
-<http://cnpolitics.github.io/radio>
+<http://radio.cnpolitics.org>
 
 ### Feeds
-- 政见电台（总）：<http://cnpolitics.github.io/radio/feed.xml>
-- 政记干货大排档：<http://cnpolitics.github.io/radio/pub/feed.xml>
-- 政好读书：<http://cnpolitics.github.io/radio/read/feed.xml>
+- 政见合集：<http://radio.cnpolitics.org/feed.xml>
+- 讲座&访谈：<http://radio.cnpolitics.org/scholar>
+- 政记干货大排档：<http://radio.cnpolitics.org/pub/feed.xml>
+- 政常说话：<http://radio.cnpolitics.org/talk/feed.xml>
+- 政好读书：<http://radio.cnpolitics.org/read/feed.xml>
+- 政正有词：<http://radio.cnpolitics.org/meme/feed.xml>
