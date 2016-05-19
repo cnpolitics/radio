@@ -1,17 +1,22 @@
 ---
-title: 政常说话测试
-subtitle: 政党低迷期领袖之位吸引力不高、女性更容易上位？
-date: 2016/05/18 03:30:00
+title: 英国想要退出欧盟，原来是这么回事！
+subtitle: 2016年6月23日，英国全民公投
+date: 2016/04/19 20:30:00
 permalink: ep1
-author: 王菁
-audio: http://7xtl1z.com2.z0.glb.clouddn.com/pub/audio/ep1.mp3
+author: 马军、陶郁、宿亮
+audio: http://radio-static.cnpolitics.org/talk/audio/ep1.mp3
 explicit: no
-cover: http://7xtl1z.com2.z0.glb.clouddn.com/pub/cover-v0.1.0.jpg
+cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
 categories:
 - 政常说话
 ---
-3 月 26 日，即将失去执政地位的国民党选出了首位女主席洪秀柱。
 
-巧的是，民进党 2008 年下野后也选出了女主席蔡英文。这些女性领袖的产生是男女参政平权的体现吗？还是政党低迷期领袖之位吸引力不高、女性更容易上位？
+2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。
 
-请听政见 “深夜干货大排档” 第一期。
+英国脱欧到底是怎么一回事？这是政客的手段，还是民众的意愿？它和移民问题有多大关系？有多少英国人支持脱离欧盟？这对英国来说是正确的选择吗？这对欧盟来说会是一次致命的打击吗？政见播客旗下栏目“政常说话”首期节目，我们和你聊聊英国脱欧公投。
+
+- 主持：马军，政见团队成员，时政记者。
+- 嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。
+- 嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。
+
+更多内容请关注政见微信公号（微信号：cnpolitics2011）及政见网站：http://cnpolitics.org
