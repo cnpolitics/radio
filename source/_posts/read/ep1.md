@@ -4,12 +4,13 @@ subtitle: 一篇文章、一本书、一首歌
 date: 2016/04/22 20:30:00
 permalink: ep1
 author: 鸽子
-audio: http://7xtl1z.com2.z0.glb.clouddn.com/read/audio/ep1.mp3
+audio: http://radio-static.cnpolitics.org/read/audio/ep1.mp3
 explicit: no
-cover: http://7xtl1z.com2.z0.glb.clouddn.com/read/cover-v0.1.0.jpg
+cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
 ---
+
 一个月以前的3月22日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。
 
 距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。
