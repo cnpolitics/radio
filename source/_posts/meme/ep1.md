@@ -1,5 +1,5 @@
 ---
-title: 其实，互联网是属于机器人的
+title: "#1：其实，互联网是属于机器人的"
 subtitle: 本期词汇：bots（网络机器人）
 date: 2016/04/20 20:30:00
 permalink: ep1
