@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    
+      
+      <itunes:category text="Science &amp; Medicine">
+        <itunes:category text="Social Sciences" />
+      </itunes:category>
+      <itunes:category text="Education">
+        <itunes:category text="Higher Education" />
+      </itunes:category>
+      <itunes:category text="News &amp; Politics">
+      </itunes:category>
+    
+
+    <title>政见｜政好读书</title>
+    <link>http://radio.cnpolitics.org/read</link>
+    <atom:link href="http://radio.cnpolitics.org/read/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>政见 CNPolitics 出品的读书节目。在这里，我们将与你分享优秀且优美的社科作品，用声音传递美与智慧。</description>
+    <itunes:summary>政见 CNPolitics 出品的读书节目。在这里，我们将与你分享优秀且优美的社科作品，用声音传递美与智慧。</itunes:summary>
+    <itunes:author>政见 CNPolitics.org</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg" />
+    <image>
+      <title>政见｜政好读书</title>
+      <url>http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg</url>
+      <link>http://radio.cnpolitics.org/read</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>政见 CNPolitics.org</itunes:name>
+      <itunes:email>webmaster@cnpolitcs.org</itunes:email>
+    </itunes:owner>
+    <managingEditor>webmaster@cnpolitcs.org (政见 CNPolitics.org)</managingEditor>
+    <copyright>政见 CNPolitics.org</copyright>
+    <itunes:subtitle>The Read | CNPolitcs Radio</itunes:subtitle>
+    
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <pubDate>Sat, 21 May 2016 17:22:55 GMT</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    <item>
+      <title>#2：好好过日子，生命的意义会逐渐显露出来</title>
+      <itunes:subtitle>从《我爱我家》到《浮生取义》</itunes:subtitle>
+      <itunes:author>鸽子</itunes:author>
+      <link>http://radio.cnpolitics.org/read/ep2/</link>
+      <guid>http://radio.cnpolitics.org/read/ep2/</guid>
+      <pubDate>Sun, 08 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>“过日子”，是中国人对生活过程的概括。这个过程是以家庭为背景展开的，因此，家庭在 ”过日子“ 这个概念中有着核心的地位。</p>
+<p>对大多数家庭而言，过日子就是在幸福与不幸之间摇摆的 “混日子”，充满了各种喜悦和欢乐，也总有一本难念的经。真正能把日子一直过得很好，没有一点不顺心的家庭，我还没有遇见过一个。说所有人都是在混日子，并不仅仅因为过日子是艰难的，而且在于，过日子永远是一个 “过” 的过程。这就意味着，人们一般不会因为日子中有困难就不再过了；即使困难能够解决，也不可能立竿见影地换来好日子。</p>
+<p>命运是在一天一天的转换中慢慢展开，生命的意义也在这逐渐的展开中渐渐显露出来。无论一生混得多么艰难，最终若能顺利完成了一生中的每个任务，父母送了终，儿子成家立业有出息，一家人虽然难免琐碎纠纷，还能和睦地过下去，日子就算过好了。</p>
+<p>上面三段文字，摘选自北大哲学系教授吴飞的《浮生取义》。这本书研究的是自杀问题，但他并没有用西方自杀研究中的精神疾病或是社会失范去理解，而是从中国的社会文化语境去理解。因此，这本书虽然写的是自杀，但其中对家庭生活、对“过日子”的分析，格外透彻。</p>
+<p>本期 “政好读书”，我们从经典的情景喜剧《我爱我家》开始，以《浮生取义》作结，一起来聊聊理想的家庭生活，聊聊我们都在过着的日子。</p>
+<p>节目中有彩蛋一枚：《我爱我家》经典对白，据说这是只有资深影迷才能听懂的政治梗。你听懂了吗？如果听懂了，请给我们留言。或者，如果有任何想说的，也请留言，说不定主播会在下次节目中读出你的留言哦。</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>“过日子”，是中国人对生活过程的概括。这个过程是以家庭为背景展开的，因此，家庭在 ”过日子“ 这个概念中有着核心的地位。</p>
+<p>对大多数家庭而言，过日子就是在幸福与不幸之间摇摆的 “混日子”，充满了各种喜悦和欢乐，也总有一本难念的经。真正能把日子一直过得很好，没有一点不顺心的家庭，我还没有遇见过一个。说所有人都是在混日子，并不仅仅因为过日子是艰难的，而且在于，过日子永远是一个 “过” 的过程。这就意味着，人们一般不会因为日子中有困难就不再过了；即使困难能够解决，也不可能立竿见影地换来好日子。</p>
+<p>命运是在一天一天的转换中慢慢展开，生命的意义也在这逐渐的展开中渐渐显露出来。无论一生混得多么艰难，最终若能顺利完成了一生中的每个任务，父母送了终，儿子成家立业有出息，一家人虽然难免琐碎纠纷，还能和睦地过下去，日子就算过好了。</p>
+<p>上面三段文字，摘选自北大哲学系教授吴飞的《浮生取义》。这本书研究的是自杀问题，但他并没有用西方自杀研究中的精神疾病或是社会失范去理解，而是从中国的社会文化语境去理解。因此，这本书虽然写的是自杀，但其中对家庭生活、对“过日子”的分析，格外透彻。</p>
+<p>本期 “政好读书”，我们从经典的情景喜剧《我爱我家》开始，以《浮生取义》作结，一起来聊聊理想的家庭生活，聊聊我们都在过着的日子。</p>
+<p>节目中有彩蛋一枚：《我爱我家》经典对白，据说这是只有资深影迷才能听懂的政治梗。你听懂了吗？如果听懂了，请给我们留言。或者，如果有任何想说的，也请留言，说不定主播会在下次节目中读出你的留言哦。</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>“过日子”，是中国人对生活过程的概括。这个过程是以家庭为背景展开的，因此，家庭在 ”过日子“ 这个概念中有着核心的地位。</p>
+<p>对大多数家庭而言，过日子就是在幸福与不幸之间摇摆的 “混日子”，充满了各种喜悦和欢乐，也总有一本难念的经。真正能把日子一直过得很好，没有一点不顺心的家庭，我还没有遇见过一个。说所有人都是在混日子，并不仅仅因为过日子是艰难的，而且在于，过日子永远是一个 “过” 的过程。这就意味着，人们一般不会因为日子中有困难就不再过了；即使困难能够解决，也不可能立竿见影地换来好日子。</p>
+<p>命运是在一天一天的转换中慢慢展开，生命的意义也在这逐渐的展开中渐渐显露出来。无论一生混得多么艰难，最终若能顺利完成了一生中的每个任务，父母送了终，儿子成家立业有出息，一家人虽然难免琐碎纠纷，还能和睦地过下去，日子就算过好了。</p>
+<p>上面三段文字，摘选自北大哲学系教授吴飞的《浮生取义》。这本书研究的是自杀问题，但他并没有用西方自杀研究中的精神疾病或是社会失范去理解，而是从中国的社会文化语境去理解。因此，这本书虽然写的是自杀，但其中对家庭生活、对“过日子”的分析，格外透彻。</p>
+<p>本期 “政好读书”，我们从经典的情景喜剧《我爱我家》开始，以《浮生取义》作结，一起来聊聊理想的家庭生活，聊聊我们都在过着的日子。</p>
+<p>节目中有彩蛋一枚：《我爱我家》经典对白，据说这是只有资深影迷才能听懂的政治梗。你听懂了吗？如果听懂了，请给我们留言。或者，如果有任何想说的，也请留言，说不定主播会在下次节目中读出你的留言哦。</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/read/audio/ep2.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#1：恐袭一个月，我所见证和认识的布鲁塞尔</title>
+      <itunes:subtitle>一篇文章、一本书、一首歌</itunes:subtitle>
+      <itunes:author>鸽子</itunes:author>
+      <link>http://radio.cnpolitics.org/read/ep1/</link>
+      <guid>http://radio.cnpolitics.org/read/ep1/</guid>
+      <pubDate>Sat, 23 Apr 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>一个月以前的 3 月 22 日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个 “撕裂” 的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在 589 天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>一个月以前的 3 月 22 日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个 “撕裂” 的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在 589 天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>一个月以前的 3 月 22 日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
+<p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
+<p>我与当地一位记者大叔聊起来，他说原本应该坐飞机出差，早上出事后，不得不回来工作。他有些愤愤地讲着自己看到的混乱景象，批评警方搜捕不力、政府漏洞百出的安保政策。然后，他对我一字一句地说：比利时压根儿既不是一个国家。</p>
+<p>我太理解他的不满了。无论是布鲁塞尔还是比利时，这种混乱感的背后，最根本的，正是这个国家纠结的政治逻辑。</p>
+<p>比利时是一个 “撕裂” 的国家，这里有三种官方语言。北部讲弗拉芒语和南部法语的两大语言群体，上百年来都在为何时何地说何种语言而争论不休。就在几年前，比利时在 589 天内处于无政府状态，时间之长一度打破了世界纪录。比利时这个棘手而破碎的社会，真的有可能分裂吗？</p>
+<p>在这期节目里，我将分享我所见证和认识的布鲁塞尔，我录下了恐袭现场的警笛声，录下了受恐袭影响改线的地铁通知声。在这些现场的亲历之外，我还将分享一篇文章和一本书，以及一首歌曲。它们都与布鲁塞尔有关。愿这些能让我们对比利时，对布鲁塞尔有更深刻的理解。</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/read/audio/ep1.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>

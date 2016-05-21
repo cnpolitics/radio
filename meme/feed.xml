@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    
+      
+      <itunes:category text="Science &amp; Medicine">
+        <itunes:category text="Social Sciences" />
+      </itunes:category>
+      <itunes:category text="Education">
+        <itunes:category text="Higher Education" />
+      </itunes:category>
+      <itunes:category text="News &amp; Politics">
+      </itunes:category>
+    
+
+    <title>政见｜政正有词</title>
+    <link>http://radio.cnpolitics.org/meme</link>
+    <atom:link href="http://radio.cnpolitics.org/meme/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</description>
+    <itunes:summary>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</itunes:summary>
+    <itunes:author>政见 CNPolitics.org</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+    <image>
+      <title>政见｜政正有词</title>
+      <url>http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg</url>
+      <link>http://radio.cnpolitics.org/meme</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>政见 CNPolitics.org</itunes:name>
+      <itunes:email>webmaster@cnpolitcs.org</itunes:email>
+    </itunes:owner>
+    <managingEditor>webmaster@cnpolitcs.org (政见 CNPolitics.org)</managingEditor>
+    <copyright>政见 CNPolitics.org</copyright>
+    <itunes:subtitle>The Meme | CNPolitcs Radio</itunes:subtitle>
+    
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <pubDate>Sat, 21 May 2016 17:22:55 GMT</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    <item>
+      <title>#4：你为什么沉迷《欢乐颂》？</title>
+      <itunes:subtitle>本期词汇：类社会互动（parasocial intreraction）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://radio.cnpolitics.org/meme/ep4/</link>
+      <guid>http://radio.cnpolitics.org/meme/ep4/</guid>
+      <pubDate>Sun, 15 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="external">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="external">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="external">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep4.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#3：川普稳获总统提名，他的大杀器是……</title>
+      <itunes:subtitle>本期词汇：民粹主义（populism）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://radio.cnpolitics.org/meme/ep3/</link>
+      <guid>http://radio.cnpolitics.org/meme/ep3/</guid>
+      <pubDate>Sat, 07 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="external">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="external">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="external">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep3.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#2：黑客不黑：在暗处的仗义侠士</title>
+      <itunes:subtitle>本期词汇：hacker（黑客）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://radio.cnpolitics.org/meme/ep2/</link>
+      <guid>http://radio.cnpolitics.org/meme/ep2/</guid>
+      <pubDate>Wed, 04 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep2.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#1：其实，互联网是属于机器人的</title>
+      <itunes:subtitle>本期词汇：bots（网络机器人）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://radio.cnpolitics.org/meme/ep1/</link>
+      <guid>http://radio.cnpolitics.org/meme/ep1/</guid>
+      <pubDate>Thu, 21 Apr 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="external">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="external">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="external">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep1.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>

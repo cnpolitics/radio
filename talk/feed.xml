@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    
+      
+      <itunes:category text="News &amp; Politics">
+      </itunes:category>
+      <itunes:category text="Science &amp; Medicine">
+        <itunes:category text="Social Sciences" />
+      </itunes:category>
+      <itunes:category text="Education">
+        <itunes:category text="Higher Education" />
+      </itunes:category>
+    
+
+    <title>政见｜政常说话</title>
+    <link>http://radio.cnpolitics.org/talk</link>
+    <atom:link href="http://radio.cnpolitics.org/talk/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>政见 CNPolitics 出品的聊天节目。我们正常说话，轻松聊天，把那些不说人话的深奥理论用简单的语言解释给你听。</description>
+    <itunes:summary>政见 CNPolitics 出品的聊天节目。我们正常说话，轻松聊天，把那些不说人话的深奥理论用简单的语言解释给你听。</itunes:summary>
+    <itunes:author>政见 CNPolitics.org</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg" />
+    <image>
+      <title>政见｜政常说话</title>
+      <url>http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg</url>
+      <link>http://radio.cnpolitics.org/talk</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>政见 CNPolitics.org</itunes:name>
+      <itunes:email>webmaster@cnpolitcs.org</itunes:email>
+    </itunes:owner>
+    <managingEditor>webmaster@cnpolitcs.org (政见 CNPolitics.org)</managingEditor>
+    <copyright>政见 CNPolitics.org</copyright>
+    <itunes:subtitle>The Talk | CNPolitcs Radio</itunes:subtitle>
+    
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <pubDate>Sat, 21 May 2016 17:22:55 GMT</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    <item>
+      <title>#3：想减肥、想戒烟，你应该这么做</title>
+      <itunes:subtitle>怎样说服自己和他人拥有更健康的生活方式</itunes:subtitle>
+      <itunes:author>方可成、张竞文、杨思佳</itunes:author>
+      <link>http://radio.cnpolitics.org/talk/ep3/</link>
+      <guid>http://radio.cnpolitics.org/talk/ep3/</guid>
+      <pubDate>Fri, 20 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>这期节目的目标，是让你自己和他人拥有更健康的生活方式。</p>
+<p>不过，我们不会给出任何养生食谱、减肥秘方——就算你有再好的养生食谱，再完美的锻炼计划，要是不能说服自己或者他人行动起来，那一切都是白搭。所以，我们探讨的是怎样说服自己和他人采取更健康的生活方式。</p>
+<p>我们讨论的问题包括：和朋友一起报班锻炼是不是会更有效？微信运动比拼步数能促进你锻炼身体吗？怎样更高效地利用锻炼类的 app？节食减肥真的有效吗？怎样说服自己和他人多吃蔬菜水果？怎样的戒烟广告最有效？烟盒应该怎样设计？如何说服亲人戒烟？怎样识别健康谣言？……</p>
+<ul>
+<li>主持：方可成，政见团队发起人，宾夕法尼亚大学 Annenberg 传播学院博士生。</li>
+<li>嘉宾：张竞文，加州大学戴维斯分校（UC Davis）传播学助理教授。</li>
+<li>嘉宾：杨思佳，宾夕法尼亚大学 Annenberg 传播学院博士候选人。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>这期节目的目标，是让你自己和他人拥有更健康的生活方式。</p>
+<p>不过，我们不会给出任何养生食谱、减肥秘方——就算你有再好的养生食谱，再完美的锻炼计划，要是不能说服自己或者他人行动起来，那一切都是白搭。所以，我们探讨的是怎样说服自己和他人采取更健康的生活方式。</p>
+<p>我们讨论的问题包括：和朋友一起报班锻炼是不是会更有效？微信运动比拼步数能促进你锻炼身体吗？怎样更高效地利用锻炼类的 app？节食减肥真的有效吗？怎样说服自己和他人多吃蔬菜水果？怎样的戒烟广告最有效？烟盒应该怎样设计？如何说服亲人戒烟？怎样识别健康谣言？……</p>
+<ul>
+<li>主持：方可成，政见团队发起人，宾夕法尼亚大学 Annenberg 传播学院博士生。</li>
+<li>嘉宾：张竞文，加州大学戴维斯分校（UC Davis）传播学助理教授。</li>
+<li>嘉宾：杨思佳，宾夕法尼亚大学 Annenberg 传播学院博士候选人。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>这期节目的目标，是让你自己和他人拥有更健康的生活方式。</p>
+<p>不过，我们不会给出任何养生食谱、减肥秘方——就算你有再好的养生食谱，再完美的锻炼计划，要是不能说服自己或者他人行动起来，那一切都是白搭。所以，我们探讨的是怎样说服自己和他人采取更健康的生活方式。</p>
+<p>我们讨论的问题包括：和朋友一起报班锻炼是不是会更有效？微信运动比拼步数能促进你锻炼身体吗？怎样更高效地利用锻炼类的 app？节食减肥真的有效吗？怎样说服自己和他人多吃蔬菜水果？怎样的戒烟广告最有效？烟盒应该怎样设计？如何说服亲人戒烟？怎样识别健康谣言？……</p>
+<ul>
+<li>主持：方可成，政见团队发起人，宾夕法尼亚大学 Annenberg 传播学院博士生。</li>
+<li>嘉宾：张竞文，加州大学戴维斯分校（UC Davis）传播学助理教授。</li>
+<li>嘉宾：杨思佳，宾夕法尼亚大学 Annenberg 传播学院博士候选人。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/talk/audio/ep3.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#2：欧洲恐怖主义问题和难民问题，原来是这么回事！</title>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:author>马军、陶郁、宿亮</itunes:author>
+      <link>http://radio.cnpolitics.org/talk/ep2/</link>
+      <guid>http://radio.cnpolitics.org/talk/ep2/</guid>
+      <pubDate>Tue, 03 May 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>从巴黎到布鲁塞尔，恐怖主义的幽灵在欧洲上空盘旋。</p>
+<p>夏天打算去法国看欧洲杯，会不会有遇上恐怖袭击的风险？为什么欧洲成了全球恐怖主义的重灾区？反恐应该在边境加强管制，还是应该重点加强情报和警务联系？欧洲是不是对恐怖分子过于宽容？欧洲恐怖主义问题和中东局势的关系如何？为什么说难民是国际问题，而不是欧洲问题？难民问题的短期、中期、长期解决方案分别是怎样的？恐怖主义问题对中国有何启示？</p>
+<p>政见播客旗下栏目 “政常说话” 第二期节目，我们和你聊聊欧洲恐怖主义问题和难民问题。</p>
+<ul>
+<li>主持：马军，政见团队成员，曾任《凤凰周刊》时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>从巴黎到布鲁塞尔，恐怖主义的幽灵在欧洲上空盘旋。</p>
+<p>夏天打算去法国看欧洲杯，会不会有遇上恐怖袭击的风险？为什么欧洲成了全球恐怖主义的重灾区？反恐应该在边境加强管制，还是应该重点加强情报和警务联系？欧洲是不是对恐怖分子过于宽容？欧洲恐怖主义问题和中东局势的关系如何？为什么说难民是国际问题，而不是欧洲问题？难民问题的短期、中期、长期解决方案分别是怎样的？恐怖主义问题对中国有何启示？</p>
+<p>政见播客旗下栏目 “政常说话” 第二期节目，我们和你聊聊欧洲恐怖主义问题和难民问题。</p>
+<ul>
+<li>主持：马军，政见团队成员，曾任《凤凰周刊》时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>从巴黎到布鲁塞尔，恐怖主义的幽灵在欧洲上空盘旋。</p>
+<p>夏天打算去法国看欧洲杯，会不会有遇上恐怖袭击的风险？为什么欧洲成了全球恐怖主义的重灾区？反恐应该在边境加强管制，还是应该重点加强情报和警务联系？欧洲是不是对恐怖分子过于宽容？欧洲恐怖主义问题和中东局势的关系如何？为什么说难民是国际问题，而不是欧洲问题？难民问题的短期、中期、长期解决方案分别是怎样的？恐怖主义问题对中国有何启示？</p>
+<p>政见播客旗下栏目 “政常说话” 第二期节目，我们和你聊聊欧洲恐怖主义问题和难民问题。</p>
+<ul>
+<li>主持：马军，政见团队成员，曾任《凤凰周刊》时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/talk/audio/ep2.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#1：英国想要退出欧盟，原来是这么回事！</title>
+      <itunes:subtitle>2016年6月23日，英国全民公投</itunes:subtitle>
+      <itunes:author>马军、陶郁、宿亮</itunes:author>
+      <link>http://radio.cnpolitics.org/talk/ep1/</link>
+      <guid>http://radio.cnpolitics.org/talk/ep1/</guid>
+      <pubDate>Wed, 20 Apr 2016 03:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。</p>
+<p>英国脱欧到底是怎么一回事？这是政客的手段，还是民众的意愿？它和移民问题有多大关系？有多少英国人支持脱离欧盟？这对英国来说是正确的选择吗？这对欧盟来说会是一次致命的打击吗？政见播客旗下栏目“政常说话”首期节目，我们和你聊聊英国脱欧公投。</p>
+<ul>
+<li>主持：马军，政见团队成员，时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。</p>
+<p>英国脱欧到底是怎么一回事？这是政客的手段，还是民众的意愿？它和移民问题有多大关系？有多少英国人支持脱离欧盟？这对英国来说是正确的选择吗？这对欧盟来说会是一次致命的打击吗？政见播客旗下栏目“政常说话”首期节目，我们和你聊聊英国脱欧公投。</p>
+<ul>
+<li>主持：马军，政见团队成员，时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。</p>
+<p>英国脱欧到底是怎么一回事？这是政客的手段，还是民众的意愿？它和移民问题有多大关系？有多少英国人支持脱离欧盟？这对英国来说是正确的选择吗？这对欧盟来说会是一次致命的打击吗？政见播客旗下栏目“政常说话”首期节目，我们和你聊聊英国脱欧公投。</p>
+<ul>
+<li>主持：马军，政见团队成员，时政记者。</li>
+<li>嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。</li>
+<li>嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。</li>
+</ul>
+<p>更多内容请关注政见微信公号（微信号：<a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>）及政见网站：<a href="http://cnpolitics.org" target="_blank" rel="external">http://cnpolitics.org</a></p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/talk/audio/ep1.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
