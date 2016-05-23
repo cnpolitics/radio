@@ -24,43 +24,49 @@ The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo]
 ### 订阅方法
 在通用播客客户端内添加 feed 地址（例如 `http://radio.cnpolitics.org/feed.xml`）或搜索播客名称，即可订阅。另有以下快捷通道，可供便利之用：
 
-- 政见合集：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-he-ji/id1115782230?mt=2) / [Overcast](https://overcast.fm/itunes1115782230)
-- 政见｜政正有词：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-zheng-you-ci/id1115783828?mt=2) / [Overcast](https://overcast.fm/itunes1115783828)
-- 政见｜政好读书：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-hao-du-shu/id1115780911?mt=2) / [Overcast](https://overcast.fm/itunes1115780911)
-- 政见｜政记干货大排档：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-ji-gan-huo/id1115780914?mt=2) / [Overcast](https://overcast.fm/itunes1115780914)
-- 政见｜讲座 & 访谈：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-jiang-zuo-fang-tan/id1115782232?mt=2) / [Overcast](https://overcast.fm/itunes1115782232)
-- 政见｜政常说话：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-chang-shuo/id1115783826?mt=2) / [Overcast](https://overcast.fm/itunes1115783826)
+- 政见合集：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-he-ji/id1115782230?mt=2) / [Overcast](https://overcast.fm/itunes1115782230) / [Pocket Casts](http://pca.st/n1AY)
+- 政见｜政正有词：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-zheng-you-ci/id1115783828?mt=2) / [Overcast](https://overcast.fm/itunes1115783828) / [Pocket Casts](http://pca.st/xtHc)
+- 政见｜政好读书：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-hao-du-shu/id1115780911?mt=2) / [Overcast](https://overcast.fm/itunes1115780911) / [Pocket Casts](http://pca.st/R26w)
+- 政见｜政记干货大排档：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-ji-gan-huo/id1115780914?mt=2) / [Overcast](https://overcast.fm/itunes1115780914) / [Pocket Casts](http://pca.st/E5BU)
+- 政见｜讲座 & 访谈：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-jiang-zuo-fang-tan/id1115782232?mt=2) / [Overcast](https://overcast.fm/itunes1115782232) / [Pocket Casts](http://pca.st/9kBY)
+- 政见｜政常说话：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-chang-shuo/id1115783826?mt=2) / [Overcast](https://overcast.fm/itunes1115783826) / [Pocket Casts](http://pca.st/LLJJ)
 
 <!--
 ##### 政见合集
 - Feed: `http://radio.cnpolitics.org/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-he-ji/id1115782230?mt=2>
-- Overcast: <https://overcast.fm/itunes1115782230)
+- Overcast: <https://overcast.fm/itunes1115782230>
+- Pocket Casts: <http://pca.st/n1AY>
 
 ##### 政见｜政正有词
 - Feed: `http://radio.cnpolitics.org/meme/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-zheng-you-ci/id1115783828?mt=2>
 - Overcast: <https://overcast.fm/itunes1115783828>
+- Pocket Casts: <http://pca.st/xtHc>
 
 ##### 政见｜政好读书
 - Feed: `http://radio.cnpolitics.org/read/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-hao-du-shu/id1115780911?mt=2>
 - Overcast: <https://overcast.fm/itunes1115780911>
+- Pocket Casts: <http://pca.st/R26w>
 
 ##### 政见｜政记干货大排档
 - Feed: `http://radio.cnpolitics.org/pub/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-ji-gan-huo/id1115780914?mt=2>
 - Overcast: <https://overcast.fm/itunes1115780914>
+- Pocket Casts: <http://pca.st/E5BU>
 
 ##### 政见｜讲座 & 访谈
 - Feed: `http://radio.cnpolitics.org/scholar/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-jiang-zuo-fang-tan/id1115782232?mt=2>
 - Overcast: <https://overcast.fm/itunes1115782232>
+- Pocket Casts: <http://pca.st/9kBY>
 
 ##### 政见｜政常说话
 - Feed: `http://radio.cnpolitics.org/talk/feed.xml`
 - iTunes: <https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-chang-shuo/id1115783826?mt=2>
 - Overcast: <https://overcast.fm/itunes1115783826>
+- Pocket Casts: <http://pca.st/LLJJ>
 -->
 
 ### 通用播客客户端
