@@ -1,5 +1,5 @@
 ---
-title: "#4：人人都想“搭便车”，怎么办？"
+title: "#5：人人都想“搭便车”，怎么办？"
 subtitle: 本期词汇：搭便车（free rider）
 date: 2016/05/24 20:30:00
 permalink: ep5
