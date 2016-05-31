@@ -18,7 +18,7 @@ categories:
 节目中所提及的书籍《粉丝公众》，由政见团队发起的众包翻译项目提供中文版免费下载：在政见CNPolitics公号（微信号：[cnpolitics2011](http://open.weixin.qq.com/qr/code/?username=cnpolitics2011)）中回复“粉丝”即可获取，或访问<http://cnpolitics.org/2016/05/fandom-publics/>
 
 - 主持：马军，政见团队成员。
-- 嘉宾：张玮玉，新加坡国立大学传播与新媒体系副教授，《粉丝公众》译者。
+- 嘉宾：张玮玉，新加坡国立大学传播与新媒体系副教授，《粉丝公众》作者。
 - 嘉宾：卢恬，香港中文大学硕士生，《粉丝公众》译者之一。
 
 更多内容请关注政见微信公号（微信号：[cnpolitics2011](http://open.weixin.qq.com/qr/code/?username=cnpolitics2011)）及政见网站：<http://cnpolitics.org>
