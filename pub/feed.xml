@@ -45,11 +45,77 @@
     <itunes:subtitle>The Pub | CNPolitcs Radio</itunes:subtitle>
     
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <pubDate>Tue, 14 Jun 2016 13:00:00 GMT</pubDate>
+    <pubDate>Fri, 24 Jun 2016 14:49:53 GMT</pubDate>
     <language>zh-CN</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
+    
+    <item>
+      <title>#13：英国要脱欧，欧洲之父莫奈会怎么想？</title>
+      <itunes:subtitle>英国脱欧系列之一</itunes:subtitle>
+      <itunes:author>王菁</itunes:author>
+      <link>http://radio.cnpolitics.org/pub/ep13/</link>
+      <guid>http://radio.cnpolitics.org/pub/ep13/</guid>
+      <pubDate>Thu, 23 Jun 2016 11:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>英国想要脱欧，假如“欧洲之父”莫奈仍旧在世，会作何反应？他一生和欧洲一体化又有怎样的情感纠葛？</p>
+<p>另外，想要了解英国脱欧的时事，可以在政见CNPolitics出品的另一档播客节目“政常说话”中收听“英国想要退出欧盟，原来是这么回事”。</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>英国想要脱欧，假如“欧洲之父”莫奈仍旧在世，会作何反应？他一生和欧洲一体化又有怎样的情感纠葛？</p>
+<p>另外，想要了解英国脱欧的时事，可以在政见CNPolitics出品的另一档播客节目“政常说话”中收听“英国想要退出欧盟，原来是这么回事”。</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>英国想要脱欧，假如“欧洲之父”莫奈仍旧在世，会作何反应？他一生和欧洲一体化又有怎样的情感纠葛？</p>
+<p>另外，想要了解英国脱欧的时事，可以在政见CNPolitics出品的另一档播客节目“政常说话”中收听“英国想要退出欧盟，原来是这么回事”。</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/pub/audio/ep13.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#12：强大的日本铁路是怎样被打造出来的？</title>
+      <itunes:subtitle>日本系列之二</itunes:subtitle>
+      <itunes:author>王菁</itunes:author>
+      <link>http://radio.cnpolitics.org/pub/ep12/</link>
+      <guid>http://radio.cnpolitics.org/pub/ep12/</guid>
+      <pubDate>Wed, 22 Jun 2016 11:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>铁路，作为现代化的标志之一，在现代日本的生活中有着不可或缺的地位。不少人的想象中，日本的铁路形象与《灌篮高手》有关，樱木花道和晴子相遇的地方就是神奈川镰仓高校的江之岛电铁车站。那么，日本铁路的历史是怎么样的？自从1980年代以来，日本铁路系统是怎么改革的？对中国的交通系统有什么启示？ </p>
+<ul>
+<li>原文链接：<a href="http://cnpolitics.org/2013/03/japaneserailway/" target="_blank" rel="external">http://cnpolitics.org/2013/03/japaneserailway/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>铁路，作为现代化的标志之一，在现代日本的生活中有着不可或缺的地位。不少人的想象中，日本的铁路形象与《灌篮高手》有关，樱木花道和晴子相遇的地方就是神奈川镰仓高校的江之岛电铁车站。那么，日本铁路的历史是怎么样的？自从1980年代以来，日本铁路系统是怎么改革的？对中国的交通系统有什么启示？ </p>
+<ul>
+<li>原文链接：<a href="http://cnpolitics.org/2013/03/japaneserailway/" target="_blank" rel="external">http://cnpolitics.org/2013/03/japaneserailway/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>铁路，作为现代化的标志之一，在现代日本的生活中有着不可或缺的地位。不少人的想象中，日本的铁路形象与《灌篮高手》有关，樱木花道和晴子相遇的地方就是神奈川镰仓高校的江之岛电铁车站。那么，日本铁路的历史是怎么样的？自从1980年代以来，日本铁路系统是怎么改革的？对中国的交通系统有什么启示？ </p>
+<ul>
+<li>原文链接：<a href="http://cnpolitics.org/2013/03/japaneserailway/" target="_blank" rel="external">http://cnpolitics.org/2013/03/japaneserailway/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/pub/audio/ep12.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
       <title>#11：安倍晋三为何要推动修宪？</title>
