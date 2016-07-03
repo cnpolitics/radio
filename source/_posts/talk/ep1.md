@@ -1,5 +1,5 @@
 ---
-title: 英国想要退出欧盟，原来是这么回事！
+title: "#1：英国想要退出欧盟，原来是这么回事！"
 subtitle: 2016年6月23日，英国全民公投
 date: 2016/04/19 20:30:00
 permalink: ep1
@@ -19,4 +19,4 @@ categories:
 - 嘉宾：陶郁，政见观察员，牛津大学博士毕业，目前在英国高校任教。
 - 嘉宾：宿亮，政见观察员，中国人民大学国际关系专业博士毕业，曾获比利时布鲁日欧洲学院欧盟国际关系与外交系硕士学位，目前在新西兰工作。
 
-更多内容请关注政见微信公号（微信号：cnpolitics2011）及政见网站：http://cnpolitics.org
+更多内容请关注政见微信公号（微信号：[cnpolitics2011](http://open.weixin.qq.com/qr/code/?username=cnpolitics2011)）及政见网站：<http://cnpolitics.org>
