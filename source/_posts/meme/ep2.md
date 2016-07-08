@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
 categories:
 - 政正有词
+tags:
+- 政正有词
 ---
 
 说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。

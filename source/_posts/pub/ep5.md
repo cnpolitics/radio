@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 2016 年 4 月 14、16 日，日本熊本县发生了连环强震，截至 4 月 20 日统计，累计已造成 48 人遇难，1100 多人受伤。但是，除了救灾之外，一种 “多难兴邦” 的声音往往出现在公众视野中。

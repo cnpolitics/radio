@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
 categories:
 - 政正有词
+tags:
+- 政正有词
 ---
 
 本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。

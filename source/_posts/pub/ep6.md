@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 女生自愿饮酒，事后却遭 “性侵犯”，这是谁的过错？

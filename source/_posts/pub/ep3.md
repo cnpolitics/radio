@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 随着各种欧洲联赛进行得如火如荼，各国球迷都日以继夜，追着他们喜欢的球队或是球星。像是西甲那场巴萨对皇马的比赛，更是让很多老球迷和新球迷热血沸腾。

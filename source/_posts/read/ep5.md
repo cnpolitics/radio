@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
+tags:
+- 政好读书
 ---
 
 “如果你厌倦了伦敦，你就厌倦了生活。” 

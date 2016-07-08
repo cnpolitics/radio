@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 3 月 26 日，即将失去执政地位的国民党选出了首位女主席洪秀柱。
