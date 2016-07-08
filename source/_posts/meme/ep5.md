@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
 categories:
 - 政正有词
+tags:
+- 政正有词
 ---
 
 生活中你有在路上搭过便车吗？今天，政正有词将从经济学角度介绍“搭便车”，从不同角度分析生活中的搭便车现象。 

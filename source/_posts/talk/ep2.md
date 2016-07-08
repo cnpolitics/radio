@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
 categories:
 - 政常说话
+tags:
+- 政常说话
 ---
 
 从巴黎到布鲁塞尔，恐怖主义的幽灵在欧洲上空盘旋。

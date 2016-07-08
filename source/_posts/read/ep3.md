@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
+tags:
+- 政好读书
 ---
 
 这是一期适合在路上听的读书节目。因为， 我将与你分享我心头好——适合散步时候听的后摇歌曲。

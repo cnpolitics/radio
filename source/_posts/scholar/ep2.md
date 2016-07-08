@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/scholar-cover1400-v1.0.jpg
 categories:
 - 讲座 & 访谈
+tags:
+- 讲座 & 访谈
 ---
 
 成为一个合格的社会科学研究者需要多少数学基础？理工科背景如何培养社科研究的感觉？

@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 当你浏览网页、搜索信息、刷新微信朋友圈的时候，你的隐私都怎么了？TrackMeNot、Adnauseam、Facecloak，你知道如何使用 “流氓策略” 来保护你的网络隐私吗？表层网络、深网和暗网，你知道网络这趟水的深度吗？

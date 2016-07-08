@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
+tags:
+- 政好读书
 ---
 
 去年，江苏省高考状元在接受采访时表示希望读新闻，结果被一群记者劝阻。在很多人看来，新闻专业不是好的选择，甚至有人质疑新闻专业存在的必要。
