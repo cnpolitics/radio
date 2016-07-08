@@ -15,16 +15,16 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://cnpolitics.github.io/radio
-root: /
+root: /radio/
 permalink: :category/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: /
 archive_dir: archives
-category_dir: /
+category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -53,7 +53,13 @@ category_map:
   政好读书: read
   讲座 & 访谈: scholar
   政常说话: talk
+  通知: msg
 tag_map:
+  政正有词: meme
+  政记干货大排档: pub
+  政好读书: read
+  讲座 & 访谈: scholar
+  政常说话: talk
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
