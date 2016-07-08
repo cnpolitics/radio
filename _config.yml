@@ -14,8 +14,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://cnpolitics.github.io/radio
-root: /radio/
+url: http://radio.cnpolitics.org
+root: /
+# url: http://cnpolitics.github.io/radio
+# root: /radio/
 permalink: :category/:title/
 permalink_defaults:
 
