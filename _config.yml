@@ -14,17 +14,17 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://radio.cnpolitics.org
-root: /
+url: http://cnpolitics.github.io/radio
+root: /radio/
 permalink: :category/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: /
 archive_dir: archives
-category_dir: /
+category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -53,7 +53,13 @@ category_map:
   政好读书: read
   讲座 & 访谈: scholar
   政常说话: talk
+  通知: msg
 tag_map:
+  政正有词: meme
+  政记干货大排档: pub
+  政好读书: read
+  讲座 & 访谈: scholar
+  政常说话: talk
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -91,9 +97,9 @@ podcast:
   cnp:
     title: 政见合集
     subtitle: CNPolitcs Radio
-    url: http://radio.cnpolitics.org
-    feed: http://radio.cnpolitics.org/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/cnpolitics-cover1400-v1.0.png
+    url: http://cnpolitics.github.io/radio
+    feed: http://cnpolitics.github.io/radio/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/cnpolitics-cover1400-v1.0.png
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 这里是政见出品的几档播客节目的合集。我们致力于拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华。网站：cnpolitics.org；微信公众号：cnpolitics2011。
@@ -101,9 +107,9 @@ podcast:
   meme:
     title: 政见｜政正有词
     subtitle: The Meme | CNPolitcs Radio
-    url: http://radio.cnpolitics.org/meme
-    feed: http://radio.cnpolitics.org/meme/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
+    url: http://cnpolitics.github.io/radio/meme
+    feed: http://cnpolitics.github.io/radio/meme/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/meme-cover1400-v1.0.jpg
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。
@@ -111,9 +117,9 @@ podcast:
   pub:
     title: 政见｜政记干货大排档
     subtitle: The Pub | CNPolitcs Radio
-    url: http://radio.cnpolitics.org/pub
-    feed: http://radio.cnpolitics.org/pub/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
+    url: http://cnpolitics.github.io/radio/pub
+    feed: http://cnpolitics.github.io/radio/pub/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/pub-cover1400-v1.0.jpg
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 知识就像爱与美食，不可或缺，不能辜负。我们把最新的时事和最有意思的知识结合，为你送上新鲜的干货。政见 CNPolitics 出品。
@@ -121,9 +127,9 @@ podcast:
   read:
     title: 政见｜政好读书
     subtitle: The Read | CNPolitcs Radio
-    url: http://radio.cnpolitics.org/read
-    feed: http://radio.cnpolitics.org/read/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
+    url: http://cnpolitics.github.io/radio/read
+    feed: http://cnpolitics.github.io/radio/read/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/read-cover1400-v1.0.jpg
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 政见 CNPolitics 出品的读书节目。在这里，我们将与你分享优秀且优美的社科作品，用声音传递美与智慧。
@@ -131,9 +137,9 @@ podcast:
   scholar:
     title: 政见｜讲座 & 访谈
     subtitle: The Scholar | CNPolitcs Radio
-    url: http://radio.cnpolitics.org/scholar
-    feed: http://radio.cnpolitics.org/scholar/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/scholar-cover1400-v1.0.jpg
+    url: http://cnpolitics.github.io/radio/scholar
+    feed: http://cnpolitics.github.io/radio/scholar/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/scholar-cover1400-v1.0.jpg
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 政见 CNPolitics 举办的沙龙、讲座、访谈精彩内容，原声呈现，如临现场。
@@ -141,9 +147,9 @@ podcast:
   talk:
     title: 政见｜政常说话
     subtitle: The Talk | CNPolitcs Radio
-    url: http://radio.cnpolitics.org/talk
-    feed: http://radio.cnpolitics.org/talk/feed.xml
-    cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
+    url: http://cnpolitics.github.io/radio/talk
+    feed: http://cnpolitics.github.io/radio/talk/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/talk-cover1400-v1.0.jpg
     author: 政见 CNPolitics.org
     email: webmaster@cnpolitcs.org
     description: 政见 CNPolitics 出品的聊天节目。我们正常说话，轻松聊天，把那些不说人话的深奥理论用简单的语言解释给你听。
