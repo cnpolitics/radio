@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
 categories:
 - 政正有词
+tags:
+- 政正有词
 ---
 
 为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……

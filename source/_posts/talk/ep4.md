@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
 categories:
 - 政常说话
+tags:
+- 政常说话
 ---
 
 提起犹太人，很多中国人的第一反应都是：聪明，会赚钱。互联网上流传着许多关于犹太人的神话，很多人煞有介事地分析“犹太人为什么智商高”、“犹太人会赚钱的12个理由”……

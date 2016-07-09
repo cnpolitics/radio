@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
 - 政记干货大排档
+tags:
+- 政记干货大排档
 ---
 
 2016 年 3 月 29 日，中国队挺进了 2018 年俄罗斯世界杯预选赛亚洲区 12 强。

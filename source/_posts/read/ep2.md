@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
+tags:
+- 政好读书
 ---
 
 “过日子”，是中国人对生活过程的概括。这个过程是以家庭为背景展开的，因此，家庭在 ”过日子“ 这个概念中有着核心的地位。

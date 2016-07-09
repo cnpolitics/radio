@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
 categories:
 - 政常说话
+tags:
+- 政常说话
 ---
 
 2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。

@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/scholar-cover1400-v1.0.jpg
 categories:
 - 讲座 & 访谈
+tags:
+- 讲座 & 访谈
 ---
 
 在学术研究的路上，如何从小白修炼成男神女神？政见观察员、哈佛大学社会学系博士生张跃然在演讲《社科专业学术控的自我修养》中为你指点迷津。他将从问题意识的形成和研究能力的培养两方面，分享自己学术探索的经历和感悟。

@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg
 categories:
 - 政正有词
+tags:
+- 政正有词
 ---
 
 Markdown 格式的正文

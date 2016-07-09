@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg
 categories:
 - 政好读书
+tags:
+- 政好读书
 ---
 
 Markdown 格式的正文
