@@ -1,9 +1,14 @@
 # CNPolitics Radio
 
-The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo](https://hexo.io).
+The podcast engine of CNPolitics Radio, based on [Hexo](https://hexo.io).
 
 <http://cnpolitics.github.io/radio>
 
+- [About CNPolitics Radio](https://github.com/cnpolitics/radio/wiki)
+- [Subscription Guide](https://github.com/cnpolitics/radio/wiki/subscription-guide)
+- [Operator Guide](https://github.com/cnpolitics/radio/wiki/operate-guide)
+
+<!--
 ### Feeds
 - CNPolitics (政见合集): <http://cnpolitics.github.io/radio/feed.xml>
 - Meme (政正有词)：<http://cnpolitics.github.io/radio/meme/feed.xml>
@@ -30,6 +35,7 @@ The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo]
 - 政见｜政记干货大排档：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-ji-gan-huo/id1115780914?mt=2) / [Overcast](https://overcast.fm/itunes1115780914) / [Pocket Casts](http://pca.st/E5BU)
 - 政见｜讲座 & 访谈：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-jiang-zuo-fang-tan/id1115782232?mt=2) / [Overcast](https://overcast.fm/itunes1115782232) / [Pocket Casts](http://pca.st/9kBY)
 - 政见｜政常说话：[iTunes](https://geo.itunes.apple.com/cn/podcast/zheng-jian-zheng-chang-shuo/id1115783826?mt=2) / [Overcast](https://overcast.fm/itunes1115783826) / [Pocket Casts](http://pca.st/LLJJ)
+-->
 
 <!--
 ##### 政见合集
@@ -69,6 +75,7 @@ The podcast feeds generator and static site of CNPolitics Radio, based on [Hexo]
 - Pocket Casts: <http://pca.st/LLJJ>
 -->
 
+<!--
 ### 通用播客客户端
 Apple 出品的 [Podcasts][podcasts]（播客），以及 [Castro][castro]、[Overcast][overcast] 是 iOS 平台常见的播客客户端。Android 用户可在各家应用市场搜索并免费获取 [AntennaPod][antennapod]。[Pocket Casts][pocketcasts] 则广泛地支持了三大移动操作系统。
 
@@ -77,3 +84,4 @@ Apple 出品的 [Podcasts][podcasts]（播客），以及 [Castro][castro]、[Ov
 [overcast]: https://overcast.fm/
 [antennapod]: http://antennapod.org/
 [pocketcasts]: http://www.shiftyjelly.com/pocketcasts
+-->
