@@ -14,7 +14,7 @@
     <title>政见合集</title>
     <link>http://cnpolitics.github.io/radio</link>
     <itunes:new-feed-url>http://cnpolitics.github.io/radio/feed.xml</itunes:new-feed-url>
-    <atom:link href="http://radio.cnpolitics.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://cnpolitics.github.io/radio/radio/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>这里是政见出品的几档播客节目的合集。我们致力于拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华。网站：cnpolitics.org；微信公众号：cnpolitics2011。</description>
     <itunes:summary>这里是政见出品的几档播客节目的合集。我们致力于拆掉知识的高墙，让普通人接触社科学术研究中的新知和思想精华。网站：cnpolitics.org；微信公众号：cnpolitics2011。</itunes:summary>
@@ -56,45 +56,45 @@
       <title>通知 #换域名啦# 为保证正常收听，请务必阅读说明</title>
       <itunes:subtitle>播客网址迁移</itunes:subtitle>
       <itunes:author>CNPolitics</itunes:author>
-      <link>http://radio.cnpolitics.org/msg/msg1/</link>
-      <guid>http://radio.cnpolitics.org/msg/msg1/</guid>
+      <link>http://cnpolitics.github.io/radio/msg/msg1/</link>
+      <guid>http://cnpolitics.github.io/radio/msg/msg1/</guid>
       <pubDate>Fri, 08 Jul 2016 15:30:00 GMT</pubDate>
       <description><![CDATA[<p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
 <p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
 <ul>
-<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/feed.xml</a></li>
-<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
-<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
-<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
-<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
-<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;">&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;">&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 ]]></description>
       <itunes:summary><![CDATA[<p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
 <p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
 <ul>
-<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/feed.xml</a></li>
-<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
-<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
-<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
-<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
-<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;">&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;">&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 ]]></itunes:summary>
       
       <content:encoded><![CDATA[<p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
 <p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
 <ul>
-<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/feed.xml</a></li>
-<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
-<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
-<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
-<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
-<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml" target="_blank" rel="external">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;">&#x77;&#101;&#98;&#109;&#x61;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#x6f;&#x6c;&#105;&#116;&#105;&#x63;&#x73;&#x2e;&#x6f;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;">&#119;&#101;&#x62;&#109;&#x61;&#115;&#x74;&#101;&#x72;&#x40;&#x63;&#x6e;&#x70;&#111;&#108;&#x69;&#x74;&#x69;&#99;&#115;&#46;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 ]]></content:encoded>
       
       <enclosure url="http://radio-static.cnpolitics.org/moving.mp3" type="audio/mpeg" />
@@ -106,8 +106,8 @@
       <title>政好读书 #5：脱欧前后与百年之前的伦敦城</title>
       <itunes:subtitle>“如果你厌倦了伦敦，你就厌倦了生活。”</itunes:subtitle>
       <itunes:author>鸽子</itunes:author>
-      <link>http://radio.cnpolitics.org/read/ep5/</link>
-      <guid>http://radio.cnpolitics.org/read/ep5/</guid>
+      <link>http://cnpolitics.github.io/radio/read/ep5/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep5/</guid>
       <pubDate>Sat, 02 Jul 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>“如果你厌倦了伦敦，你就厌倦了生活。” </p>
 <p>伦敦是一座极具生活意识的城市，也是一座属于世界的城市。尽管这一个月以来，脱欧前后的伦敦始终处于漩涡之中。</p>
@@ -135,11 +135,34 @@
     </item>
     
     <item>
+      <title>政记干货大排档 #15：英国想回欧，欧洲之父莫奈会怎么想？（三）</title>
+      <itunes:subtitle>英国脱欧系列之三</itunes:subtitle>
+      <itunes:author>王菁</itunes:author>
+      <link>http://cnpolitics.github.io/radio/pub/ep15/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep15/</guid>
+      <pubDate>Fri, 01 Jul 2016 02:30:00 GMT</pubDate>
+      <description><![CDATA[<p>欧洲之父莫奈，当年如何逐渐推进他欧洲一体化的梦想？除了欧洲煤钢共同体和经济共同体，还有什么值得一提的机构？除了欧洲一体化，莫奈的感情生活又是怎样的？</p>
+<p>这是“政记干货大排档”英国脱欧系列之三。</p>
+]]></description>
+      <itunes:summary><![CDATA[<p>欧洲之父莫奈，当年如何逐渐推进他欧洲一体化的梦想？除了欧洲煤钢共同体和经济共同体，还有什么值得一提的机构？除了欧洲一体化，莫奈的感情生活又是怎样的？</p>
+<p>这是“政记干货大排档”英国脱欧系列之三。</p>
+]]></itunes:summary>
+      
+      <content:encoded><![CDATA[<p>欧洲之父莫奈，当年如何逐渐推进他欧洲一体化的梦想？除了欧洲煤钢共同体和经济共同体，还有什么值得一提的机构？除了欧洲一体化，莫奈的感情生活又是怎样的？</p>
+<p>这是“政记干货大排档”英国脱欧系列之三。</p>
+]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/pub/audio/ep15.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
       <title>政记干货大排档 #14：英国脱欧，欧洲之父莫奈会怎么想？（二）</title>
       <itunes:subtitle>英国脱欧系列之二</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep14/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep14/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep14/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep14/</guid>
       <pubDate>Sat, 25 Jun 2016 02:30:00 GMT</pubDate>
       <description><![CDATA[<p>2016年6月，英国最终还是脱欧了。在1967年的时候，“欧洲之父”莫奈对于英国有过什么评价？他怎么在一战和二战后一步步推动欧洲一体化？二战前，莫奈和中国还有过什么有意思的联系？这一期，我们接着聊“欧洲之父”莫奈的故事。最后，还有搞笑吐槽的“英国脱欧之歌”等着大家。</p>
 <p>另外，想要了解英国脱欧的时事，可以在政见CNPolitics出品的另一档播客节目“政常说话”中收听“英国想要退出欧盟，原来是这么回事”。</p>
@@ -161,8 +184,8 @@
       <title>政记干货大排档 #13：英国要脱欧，欧洲之父莫奈会怎么想？</title>
       <itunes:subtitle>英国脱欧系列之一</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep13/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep13/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep13/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep13/</guid>
       <pubDate>Thu, 23 Jun 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>英国想要脱欧，假如“欧洲之父”莫奈仍旧在世，会作何反应？他一生和欧洲一体化又有怎样的情感纠葛？</p>
 <p>另外，想要了解英国脱欧的时事，可以在政见CNPolitics出品的另一档播客节目“政常说话”中收听“英国想要退出欧盟，原来是这么回事”。</p>
@@ -184,8 +207,8 @@
       <title>政记干货大排档 #12：强大的日本铁路是怎样被打造出来的？</title>
       <itunes:subtitle>日本系列之二</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep12/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep12/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep12/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep12/</guid>
       <pubDate>Wed, 22 Jun 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>铁路，作为现代化的标志之一，在现代日本的生活中有着不可或缺的地位。不少人的想象中，日本的铁路形象与《灌篮高手》有关，樱木花道和晴子相遇的地方就是神奈川镰仓高校的江之岛电铁车站。那么，日本铁路的历史是怎么样的？自从1980年代以来，日本铁路系统是怎么改革的？对中国的交通系统有什么启示？ </p>
 <ul>
@@ -213,8 +236,8 @@
       <title>政记干货大排档 #11：安倍晋三为何要推动修宪？</title>
       <itunes:subtitle>日本民众怎么看？</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep11/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep11/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep11/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep11/</guid>
       <pubDate>Tue, 14 Jun 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>二战结束后，日本旧的明治宪法被掏空，在保留天皇的基础上，注入了西方模式的政治理念，同时还放弃了发动战争的权利。但是在安倍政府的强力推动下， 2016年3月，日本新安保法正式实施。为什么安倍政府如此推动修宪？他个人的家族背景起了什么作用？目前，日本普通民众对修宪的态度如何？</p>
 <ul>
@@ -242,8 +265,8 @@
       <title>政好读书 #4：新闻学院只是职业技校吗？</title>
       <itunes:subtitle>大学为什么要有新闻专业？</itunes:subtitle>
       <itunes:author>方可成</itunes:author>
-      <link>http://radio.cnpolitics.org/read/ep4/</link>
-      <guid>http://radio.cnpolitics.org/read/ep4/</guid>
+      <link>http://cnpolitics.github.io/radio/read/ep4/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep4/</guid>
       <pubDate>Thu, 09 Jun 2016 02:30:00 GMT</pubDate>
       <description><![CDATA[<p>去年，江苏省高考状元在接受采访时表示希望读新闻，结果被一群记者劝阻。在很多人看来，新闻专业不是好的选择，甚至有人质疑新闻专业存在的必要。</p>
 <p>新闻学教育到底应该怎么做？我们现在的新闻教育究竟出了什么问题？新闻学和传播学到底是什么关系？为什么中美新闻传播院校的设置不一样？新闻其实没有什么学问，只是一项技术，一门手艺吗？学新闻难道就跟读技校一样？那我们的高等学府里面为什么还要设新闻专业呢？</p>
@@ -271,8 +294,8 @@
       <title>政常说话 #5：粉丝不一定脑残，粉丝也能改变社会</title>
       <itunes:subtitle></itunes:subtitle>
       <itunes:author>马军、张玮玉、卢恬</itunes:author>
-      <link>http://radio.cnpolitics.org/talk/ep5/</link>
-      <guid>http://radio.cnpolitics.org/talk/ep5/</guid>
+      <link>http://cnpolitics.github.io/radio/talk/ep5/</link>
+      <guid>http://cnpolitics.github.io/radio/talk/ep5/</guid>
       <pubDate>Tue, 31 May 2016 02:30:00 GMT</pubDate>
       <description><![CDATA[<p>“疯狂粉丝无脑追星”，这是不少人提到“粉丝”时的第一反应。但其实，我们几乎每一个人都是（或者曾经是）某些人物、作品、现象的粉丝，粉丝的意涵远非“脑残”所能概括。喜爱电影的人组成的“迷影”群体，追剧的人们发起的字幕组，在微博上围绕大V开展讨论对话的用户，他们都是基于互联网产生的粉丝群体，他们正一点一滴地改变着中国社会的模样。</p>
 <p>在本期节目中，我们讨论的问题包括：如何理解粉丝现象？哈韩哈日背后的原因是什么？为什么台湾人越来越喜欢看大陆影视和综艺节目？在新媒体时代，政治人物如何吸引更多粉丝？社交媒体如何拉近了粉丝和被粉对象之间的距离？微博大V和粉丝之间是什么关系？”网红“直播吃饭为什么会这么火？……</p>
@@ -315,8 +338,8 @@
       <title>政常说话 #4：真实的犹太人：聪明绝顶？商业天才？</title>
       <itunes:subtitle>我们请到了一位犹太人来亲身讲述</itunes:subtitle>
       <itunes:author>方可成、Maria、邓哲远</itunes:author>
-      <link>http://radio.cnpolitics.org/talk/ep4/</link>
-      <guid>http://radio.cnpolitics.org/talk/ep4/</guid>
+      <link>http://cnpolitics.github.io/radio/talk/ep4/</link>
+      <guid>http://cnpolitics.github.io/radio/talk/ep4/</guid>
       <pubDate>Wed, 25 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>提起犹太人，很多中国人的第一反应都是：聪明，会赚钱。互联网上流传着许多关于犹太人的神话，很多人煞有介事地分析“犹太人为什么智商高”、“犹太人会赚钱的12个理由”……</p>
 <p>我们对犹太人的印象，究竟有几分真几分假？本期政常说话，我们请到了一位中文说得非常流利的犹太人，让她现身说法，向各位介绍关于犹太人的种种真相——他们是不是很聪明、很会赚钱？可以通过外表辨别犹太人吗？犹太人和中国人的接触是从何时开始的？他们听说中国人对他们的印象之后，会有何反应？犹太人眼中的中国人是怎样的形象？……</p>
@@ -356,8 +379,8 @@
       <title>政正有词 #5：人人都想“搭便车”，怎么办？</title>
       <itunes:subtitle>本期词汇：搭便车（free rider）</itunes:subtitle>
       <itunes:author>Sonia</itunes:author>
-      <link>http://radio.cnpolitics.org/meme/ep5/</link>
-      <guid>http://radio.cnpolitics.org/meme/ep5/</guid>
+      <link>http://cnpolitics.github.io/radio/meme/ep5/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep5/</guid>
       <pubDate>Tue, 24 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>生活中你有在路上搭过便车吗？今天，政正有词将从经济学角度介绍“搭便车”，从不同角度分析生活中的搭便车现象。 </p>
 <p>为什么电影《美人鱼》上映之后，美人鱼类电影会大量出现？为什么公司要有裁员制度？一个团队最合适的人数是多少？国防、治安为什么由政府来提供？</p>
@@ -388,8 +411,8 @@
       <title>政好读书 #3：听这几首后摇去散步，你也能像卢梭一样宁静与自由地思考</title>
       <itunes:subtitle>如果世间真有这么一种状态</itunes:subtitle>
       <itunes:author>鸽子</itunes:author>
-      <link>http://radio.cnpolitics.org/read/ep3/</link>
-      <guid>http://radio.cnpolitics.org/read/ep3/</guid>
+      <link>http://cnpolitics.github.io/radio/read/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep3/</guid>
       <pubDate>Sun, 22 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>这是一期适合在路上听的读书节目。因为， 我将与你分享我心头好——适合散步时候听的后摇歌曲。</p>
 <p>听的时候，来看这段如同后摇听众听歌手记一样的文字：</p>
@@ -444,8 +467,8 @@
       <title>政记干货大排档 #10：调查数据揭示台湾人的国家认同感</title>
       <itunes:subtitle>有多少台湾人认为自己是“中国人”？</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep10/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep10/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep10/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep10/</guid>
       <pubDate>Fri, 20 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>台湾普通人怎么看待自己的国族身份？有多少台湾人认为自己是“中国人”？从1980年代末到21世纪的今天，台湾人的国家认同感发生了什么样的变化？这些变化的原因又是什么？对于当代的台湾人而言，哪里才是故乡？</p>
 <ul>
@@ -473,8 +496,8 @@
       <title>政常说话 #3：想减肥、想戒烟，你应该这么做</title>
       <itunes:subtitle>怎样说服自己和他人拥有更健康的生活方式</itunes:subtitle>
       <itunes:author>方可成、张竞文、杨思佳</itunes:author>
-      <link>http://radio.cnpolitics.org/talk/ep3/</link>
-      <guid>http://radio.cnpolitics.org/talk/ep3/</guid>
+      <link>http://cnpolitics.github.io/radio/talk/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/talk/ep3/</guid>
       <pubDate>Thu, 19 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>这期节目的目标，是让你自己和他人拥有更健康的生活方式。</p>
 <p>不过，我们不会给出任何养生食谱、减肥秘方——就算你有再好的养生食谱，再完美的锻炼计划，要是不能说服自己或者他人行动起来，那一切都是白搭。所以，我们探讨的是怎样说服自己和他人采取更健康的生活方式。</p>
@@ -517,8 +540,8 @@
       <title>政记干货大排档 #9：保护你的网络隐私？有这些流氓策略！</title>
       <itunes:subtitle></itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep9/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep9/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep9/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep9/</guid>
       <pubDate>Wed, 18 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>当你浏览网页、搜索信息、刷新微信朋友圈的时候，你的隐私都怎么了？TrackMeNot、Adnauseam、Facecloak，你知道如何使用 “流氓策略” 来保护你的网络隐私吗？表层网络、深网和暗网，你知道网络这趟水的深度吗？</p>
 <ul>
@@ -546,8 +569,8 @@
       <title>政正有词 #4：你为什么沉迷《欢乐颂》？</title>
       <itunes:subtitle>本期词汇：类社会互动（parasocial intreraction）</itunes:subtitle>
       <itunes:author>Sonia</itunes:author>
-      <link>http://radio.cnpolitics.org/meme/ep4/</link>
-      <guid>http://radio.cnpolitics.org/meme/ep4/</guid>
+      <link>http://cnpolitics.github.io/radio/meme/ep4/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep4/</guid>
       <pubDate>Sat, 14 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
 <p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
@@ -581,8 +604,8 @@
       <title>政记干货大排档 #8：媒体在报道医疗政策时存在什么问题？</title>
       <itunes:subtitle></itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep8/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep8/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep8/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep8/</guid>
       <pubDate>Fri, 13 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>中国媒体是如何报道医改的？不同的媒体又有什么特色？普通人通过媒体影响医改的可能性大吗？今天政记干货送上的是英国研究者对于中国媒体和医改报道的观察。</p>
 <ul>
@@ -610,8 +633,8 @@
       <title>政记干货大排档 #7：怎样看懂众声喧哗的中国互联网？</title>
       <itunes:subtitle></itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep7/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep7/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep7/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep7/</guid>
       <pubDate>Mon, 09 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>如今，中国网民数量已经达到 7 亿左右，我们可以怎样更好地观察中国网络？技术能决定一切吗？过度的娱乐化能影响社会吗？怎么看待各种网络标签呢？</p>
 <p>作品推荐：</p>
@@ -654,8 +677,8 @@
       <title>政好读书 #2：好好过日子，生命的意义会逐渐显露出来</title>
       <itunes:subtitle>从《我爱我家》到《浮生取义》</itunes:subtitle>
       <itunes:author>鸽子</itunes:author>
-      <link>http://radio.cnpolitics.org/read/ep2/</link>
-      <guid>http://radio.cnpolitics.org/read/ep2/</guid>
+      <link>http://cnpolitics.github.io/radio/read/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep2/</guid>
       <pubDate>Sat, 07 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>“过日子”，是中国人对生活过程的概括。这个过程是以家庭为背景展开的，因此，家庭在 ”过日子“ 这个概念中有着核心的地位。</p>
 <p>对大多数家庭而言，过日子就是在幸福与不幸之间摇摆的 “混日子”，充满了各种喜悦和欢乐，也总有一本难念的经。真正能把日子一直过得很好，没有一点不顺心的家庭，我还没有遇见过一个。说所有人都是在混日子，并不仅仅因为过日子是艰难的，而且在于，过日子永远是一个 “过” 的过程。这就意味着，人们一般不会因为日子中有困难就不再过了；即使困难能够解决，也不可能立竿见影地换来好日子。</p>
@@ -689,8 +712,8 @@
       <title>政正有词 #3：川普稳获总统提名，他的大杀器是……</title>
       <itunes:subtitle>本期词汇：民粹主义（populism）</itunes:subtitle>
       <itunes:author>Sonia</itunes:author>
-      <link>http://radio.cnpolitics.org/meme/ep3/</link>
-      <guid>http://radio.cnpolitics.org/meme/ep3/</guid>
+      <link>http://cnpolitics.github.io/radio/meme/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep3/</guid>
       <pubDate>Fri, 06 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
 <p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
@@ -724,8 +747,8 @@
       <title>政正有词 #2：黑客不黑：在暗处的仗义侠士</title>
       <itunes:subtitle>本期词汇：hacker（黑客）</itunes:subtitle>
       <itunes:author>Sonia</itunes:author>
-      <link>http://radio.cnpolitics.org/meme/ep2/</link>
-      <guid>http://radio.cnpolitics.org/meme/ep2/</guid>
+      <link>http://cnpolitics.github.io/radio/meme/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep2/</guid>
       <pubDate>Tue, 03 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
 <p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
@@ -771,8 +794,8 @@
       <title>政常说话 #2：欧洲恐怖主义问题和难民问题，原来是这么回事！</title>
       <itunes:subtitle></itunes:subtitle>
       <itunes:author>马军、陶郁、宿亮</itunes:author>
-      <link>http://radio.cnpolitics.org/talk/ep2/</link>
-      <guid>http://radio.cnpolitics.org/talk/ep2/</guid>
+      <link>http://cnpolitics.github.io/radio/talk/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/talk/ep2/</guid>
       <pubDate>Mon, 02 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>从巴黎到布鲁塞尔，恐怖主义的幽灵在欧洲上空盘旋。</p>
 <p>夏天打算去法国看欧洲杯，会不会有遇上恐怖袭击的风险？为什么欧洲成了全球恐怖主义的重灾区？反恐应该在边境加强管制，还是应该重点加强情报和警务联系？欧洲是不是对恐怖分子过于宽容？欧洲恐怖主义问题和中东局势的关系如何？为什么说难民是国际问题，而不是欧洲问题？难民问题的短期、中期、长期解决方案分别是怎样的？恐怖主义问题对中国有何启示？</p>
@@ -815,8 +838,8 @@
       <title>政记干货大排档 #6：女生自愿饮酒后遭 “性侵犯”，谁的过错？</title>
       <itunes:subtitle>哈佛大学女权主义者的争论</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep6/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep6/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep6/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep6/</guid>
       <pubDate>Sun, 01 May 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>女生自愿饮酒，事后却遭 “性侵犯”，这是谁的过错？</p>
 <p>哈佛大学法学院的法学教授从不同角度出发，产生了激烈争辩。其中，Catherine MacKinnon 与 Janet Halley 无疑是争端中旗帜最鲜明的人物。同样是女权主义者，他们争论的焦点是什么？我们又能从中获得什么启发？</p>
@@ -847,8 +870,8 @@
       <title>讲座 &amp; 访谈 #3：哈佛博士生张跃然：如何修炼成为学术男神女神？</title>
       <itunes:subtitle>学术控的自我修养</itunes:subtitle>
       <itunes:author>张跃然</itunes:author>
-      <link>http://radio.cnpolitics.org/scholar/ep3/</link>
-      <guid>http://radio.cnpolitics.org/scholar/ep3/</guid>
+      <link>http://cnpolitics.github.io/radio/scholar/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/scholar/ep3/</guid>
       <pubDate>Fri, 29 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>在学术研究的路上，如何从小白修炼成男神女神？政见观察员、哈佛大学社会学系博士生张跃然在演讲《社科专业学术控的自我修养》中为你指点迷津。他将从问题意识的形成和研究能力的培养两方面，分享自己学术探索的经历和感悟。</p>
 <p>这是 2015 年 6 月 18 日，政见团队在复旦大学举行的分享活动的精彩录音。</p>
@@ -873,8 +896,8 @@
       <title>政记干货大排档 #5：地震后，“多难兴邦” 是心灵鸡汤吗？</title>
       <itunes:subtitle>面对灾难，我们需要做什么，又要警惕什么？</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep5/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep5/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep5/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep5/</guid>
       <pubDate>Mon, 25 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>2016 年 4 月 14、16 日，日本熊本县发生了连环强震，截至 4 月 20 日统计，累计已造成 48 人遇难，1100 多人受伤。但是，除了救灾之外，一种 “多难兴邦” 的声音往往出现在公众视野中。</p>
 <p>多难真的能兴邦吗？面对灾难，我们需要做什么，又要警惕什么？</p>
@@ -905,8 +928,8 @@
       <title>讲座 &amp; 访谈 #2：王也：研究社会科学，学好数学有多重要？</title>
       <itunes:subtitle>演讲人其实是个段子手</itunes:subtitle>
       <itunes:author>王也</itunes:author>
-      <link>http://radio.cnpolitics.org/scholar/ep2/</link>
-      <guid>http://radio.cnpolitics.org/scholar/ep2/</guid>
+      <link>http://cnpolitics.github.io/radio/scholar/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/scholar/ep2/</guid>
       <pubDate>Mon, 25 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>成为一个合格的社会科学研究者需要多少数学基础？理工科背景如何培养社科研究的感觉？</p>
 <p>这是 2015 年 6 月 18 日，政见团队在复旦大学举行的分享活动的精彩录音。演讲人是政见观察员、纽约大学博士生王也。</p>
@@ -931,8 +954,8 @@
       <title>政好读书 #1：恐袭一个月，我所见证和认识的布鲁塞尔</title>
       <itunes:subtitle>一篇文章、一本书、一首歌</itunes:subtitle>
       <itunes:author>鸽子</itunes:author>
-      <link>http://radio.cnpolitics.org/read/ep1/</link>
-      <guid>http://radio.cnpolitics.org/read/ep1/</guid>
+      <link>http://cnpolitics.github.io/radio/read/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep1/</guid>
       <pubDate>Fri, 22 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>一个月以前的 3 月 22 日，春分，阳光正好。对持续低温阴雨的布鲁塞尔来说，原本是一个平静的、属于春天的日子。恐怖袭击发生两小时后，当我走上了街头，身边却是飞驰而过的救护车，耳边传来的是接连不断响起的警笛声。因为爆炸地铁停运，我硬生生走了四十分钟到达欧盟总部所在的舒曼地铁站。</p>
 <p>距离爆炸发生的地铁站只有一站路，这段路已经封锁起来了，远远的能看到停着几辆黄色的救护车。除了警笛声，头顶还有不时飞过的、嗡嗡作响的直升机。站在封锁线外的有警察、记者，还有少量路人，整体还算平静。</p>
@@ -966,8 +989,8 @@
       <title>政正有词 #1：其实，互联网是属于机器人的</title>
       <itunes:subtitle>本期词汇：bots（网络机器人）</itunes:subtitle>
       <itunes:author>Sonia</itunes:author>
-      <link>http://radio.cnpolitics.org/meme/ep1/</link>
-      <guid>http://radio.cnpolitics.org/meme/ep1/</guid>
+      <link>http://cnpolitics.github.io/radio/meme/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep1/</guid>
       <pubDate>Wed, 20 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
 <ul>
@@ -998,8 +1021,8 @@
       <title>政常说话 #1：英国想要退出欧盟，原来是这么回事！</title>
       <itunes:subtitle>2016年6月23日，英国全民公投</itunes:subtitle>
       <itunes:author>马军、陶郁、宿亮</itunes:author>
-      <link>http://radio.cnpolitics.org/talk/ep1/</link>
-      <guid>http://radio.cnpolitics.org/talk/ep1/</guid>
+      <link>http://cnpolitics.github.io/radio/talk/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/talk/ep1/</guid>
       <pubDate>Tue, 19 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>2016 年 6 月 23 日，英国将举行全民公投，决定是否继续留在欧盟。</p>
 <p>英国脱欧到底是怎么一回事？这是政客的手段，还是民众的意愿？它和移民问题有多大关系？有多少英国人支持脱离欧盟？这对英国来说是正确的选择吗？这对欧盟来说会是一次致命的打击吗？政见播客旗下栏目“政常说话”首期节目，我们和你聊聊英国脱欧公投。</p>
@@ -1039,8 +1062,8 @@
       <title>政记干货大排档 #4：“禁摩限电” 合理吗？</title>
       <itunes:subtitle>来自华南师范大学钱俊希教授有关广州取缔摩的的深度研究</itunes:subtitle>
       <itunes:author>王菁, 谭宏泽</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep4/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep4/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep4/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep4/</guid>
       <pubDate>Sun, 10 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>北京市将从 4 月 11 日开始，禁止电动自行车在长安街等 10 条主要大街通行。广州近日也拟定相关法案，首次明确规定全市范围内禁止销售电动车，无论其是否符合国家标准。</p>
 <p>但其实，类似的命运就发生在摩托车和摩的上。</p>
@@ -1077,8 +1100,8 @@
       <title>政记干货大排档 #3：美国人为啥不玩足球？一种司法文化解释</title>
       <itunes:subtitle>从司法文化理解欧美对足球截然不同的态度</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep3/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep3/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep3/</guid>
       <pubDate>Mon, 04 Apr 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>随着各种欧洲联赛进行得如火如荼，各国球迷都日以继夜，追着他们喜欢的球队或是球星。像是西甲那场巴萨对皇马的比赛，更是让很多老球迷和新球迷热血沸腾。</p>
 <p>但是，这种风潮似乎到了大洋彼岸的美国就减弱不少。为什么全世界风靡的足球在美国不怎么受待见？足球和欧美不同的司法文化有什么关系？</p>
@@ -1103,8 +1126,8 @@
       <title>政记干货大排档 #2：国足晋级，你变成（伪）球迷了吗？</title>
       <itunes:subtitle>一时间，真假球迷难辨，成就了全民足球盛宴的 “假象”</itunes:subtitle>
       <itunes:author>王菁, 王韬</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep2/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep2/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep2/</guid>
       <pubDate>Thu, 31 Mar 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>2016 年 3 月 29 日，中国队挺进了 2018 年俄罗斯世界杯预选赛亚洲区 12 强。</p>
 <p>中国队的球迷数量似乎在一夜之间飙升了不少。每当重大赛事之时，你身边是不是突然冒出来很多 “球迷”？那些之前从来不关心足球的人，突然间都成了狂热分子。不仅如此，每个人还都有自己坚定支持的球队，自称铁杆。一时间，真假球迷难辨，成就了全民足球盛宴的 “假象”。</p>
@@ -1141,8 +1164,8 @@
       <title>讲座 &amp; 访谈 #1：刘擎：如何观察西方知识界</title>
       <itunes:subtitle>年度《西方知识界回顾》作者</itunes:subtitle>
       <itunes:author>刘擎</itunes:author>
-      <link>http://radio.cnpolitics.org/scholar/ep1/</link>
-      <guid>http://radio.cnpolitics.org/scholar/ep1/</guid>
+      <link>http://cnpolitics.github.io/radio/scholar/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/scholar/ep1/</guid>
       <pubDate>Thu, 31 Mar 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>对于关注西方学术思想界的朋友来说，华东师范大学政治学系教授刘擎的名字再熟悉不过——他编写的年度《西方知识界回顾》系列是国人了解西方知识界动态的重要窗口。2016 年 2 月 27 日上午，刘擎做客政见线上沙龙第一期，与大家分享自己观察西方知识界的方法和心得，并接受读者的提问。 </p>
 <p>这里是沙龙音频整理，文字版请见：<a href="http://cnpolitics.org/2016/03/liu-qing-2/" target="_blank" rel="external">http://cnpolitics.org/2016/03/liu-qing-2/</a></p>
@@ -1164,8 +1187,8 @@
       <title>政记干货大排档 #1：国民党选出女主席体现男女平权？</title>
       <itunes:subtitle>政党低迷期领袖之位吸引力不高、女性更容易上位？</itunes:subtitle>
       <itunes:author>王菁</itunes:author>
-      <link>http://radio.cnpolitics.org/pub/ep1/</link>
-      <guid>http://radio.cnpolitics.org/pub/ep1/</guid>
+      <link>http://cnpolitics.github.io/radio/pub/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/pub/ep1/</guid>
       <pubDate>Sun, 27 Mar 2016 12:30:00 GMT</pubDate>
       <description><![CDATA[<p>3 月 26 日，即将失去执政地位的国民党选出了首位女主席洪秀柱。</p>
 <p>巧的是，民进党 2008 年下野后也选出了女主席蔡英文。这些女性领袖的产生是男女参政平权的体现吗？还是政党低迷期领袖之位吸引力不高、女性更容易上位？</p>
