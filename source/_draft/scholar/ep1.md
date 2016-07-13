@@ -9,6 +9,8 @@ explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/scholar-cover1400-v1.0.jpg
 categories:
 - 讲座 & 访谈
+tags:
+- 讲座 & 访谈
 ---
 
 Markdown 格式的正文
