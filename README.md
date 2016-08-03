@@ -6,7 +6,7 @@ The podcast engine of CNPolitics Radio, based on [Hexo](https://hexo.io).
 
 - [About CNPolitics Radio](https://github.com/cnpolitics/radio/wiki)
 - [Subscription Guide](https://github.com/cnpolitics/radio/wiki/subscription-guide)
-- [Operator Guide](https://github.com/cnpolitics/radio/wiki/operate-guide)
+- [Operator Guide](https://github.com/cnpolitics/radio/wiki/operator-guide)
 
 <!--
 ### Feeds
