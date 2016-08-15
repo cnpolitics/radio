@@ -46,11 +46,44 @@
     <itunes:subtitle>The Read | CNPolitcs Radio</itunes:subtitle>
     
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <pubDate>Fri, 08 Jul 2016 21:46:28 GMT</pubDate>
+    <pubDate>Mon, 15 Aug 2016 19:15:23 GMT</pubDate>
     <language>zh-CN</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     
+    
+    <item>
+      <title>#6：谈谈暴力：没有暴力的个体，只有暴力的情境</title>
+      <itunes:subtitle>“谈谈暴力：没有暴力的个体，只有暴力的情境”</itunes:subtitle>
+      <itunes:author>鸽子</itunes:author>
+      <link>http://cnpolitics.github.io/radio/read/ep6/</link>
+      <guid>http://cnpolitics.github.io/radio/read/ep6/</guid>
+      <pubDate>Sun, 14 Aug 2016 02:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>说到暴力，你会想起什么？是恐怖袭击、罪犯火拼、战争，还是校园霸凌、家庭暴力、冲突与斗殴？一般人看来，暴力是丑陋血腥的，制造暴力的人群更是十恶不赦的怪兽。在《暴力：一种微观社会学理论》一书中，社会学家兰道尔·柯林斯却指出：“没有暴力的个体，只有暴力的情境”——如果情境本身展开不足以克服冲突性紧张和恐惧，那么暴力就不会发生。这是在为施暴者“洗白”吗？作为普通人，又该如何看待暴力以及暴力人群？面对暴力威胁，又该如何脱身？</p>
+<p>在本期节目中，我们与两位政见观察员一起聊聊有关暴力的话题，从学术角度告诉你，微观社会学的研究是如何破除对暴力的迷思的。</p>
+<p>主持：鸽子，政见团队成员<br>嘉宾：刘冉，政见观察员，宾夕法尼亚大学社会学博士在读，《暴力》一书的中文版译者<br>嘉宾：陶郁，政见观察员，目前在英国高校任教</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>说到暴力，你会想起什么？是恐怖袭击、罪犯火拼、战争，还是校园霸凌、家庭暴力、冲突与斗殴？一般人看来，暴力是丑陋血腥的，制造暴力的人群更是十恶不赦的怪兽。在《暴力：一种微观社会学理论》一书中，社会学家兰道尔·柯林斯却指出：“没有暴力的个体，只有暴力的情境”——如果情境本身展开不足以克服冲突性紧张和恐惧，那么暴力就不会发生。这是在为施暴者“洗白”吗？作为普通人，又该如何看待暴力以及暴力人群？面对暴力威胁，又该如何脱身？</p>
+<p>在本期节目中，我们与两位政见观察员一起聊聊有关暴力的话题，从学术角度告诉你，微观社会学的研究是如何破除对暴力的迷思的。</p>
+<p>主持：鸽子，政见团队成员<br>嘉宾：刘冉，政见观察员，宾夕法尼亚大学社会学博士在读，《暴力》一书的中文版译者<br>嘉宾：陶郁，政见观察员，目前在英国高校任教</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>说到暴力，你会想起什么？是恐怖袭击、罪犯火拼、战争，还是校园霸凌、家庭暴力、冲突与斗殴？一般人看来，暴力是丑陋血腥的，制造暴力的人群更是十恶不赦的怪兽。在《暴力：一种微观社会学理论》一书中，社会学家兰道尔·柯林斯却指出：“没有暴力的个体，只有暴力的情境”——如果情境本身展开不足以克服冲突性紧张和恐惧，那么暴力就不会发生。这是在为施暴者“洗白”吗？作为普通人，又该如何看待暴力以及暴力人群？面对暴力威胁，又该如何脱身？</p>
+<p>在本期节目中，我们与两位政见观察员一起聊聊有关暴力的话题，从学术角度告诉你，微观社会学的研究是如何破除对暴力的迷思的。</p>
+<p>主持：鸽子，政见团队成员<br>嘉宾：刘冉，政见观察员，宾夕法尼亚大学社会学博士在读，《暴力》一书的中文版译者<br>嘉宾：陶郁，政见观察员，目前在英国高校任教</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/read/audio/ep6.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/read-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     
     <item>
       <title>#换域名啦# 为保证正常收听，请务必阅读说明</title>
@@ -71,7 +104,7 @@
 <li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
 <li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;">&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;">&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 
       ]]></description>
       <itunes:summary><![CDATA[
@@ -85,7 +118,7 @@
 <li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
 <li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;">&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;">&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 
       ]]></itunes:summary>
       
@@ -100,7 +133,7 @@
 <li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
 <li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
 </ul>
-<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;">&#x77;&#101;&#x62;&#109;&#97;&#x73;&#x74;&#x65;&#114;&#x40;&#x63;&#110;&#112;&#111;&#x6c;&#x69;&#x74;&#x69;&#x63;&#115;&#46;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="external">另有更多信息</a>，可备参考。也欢迎致信 <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;">&#119;&#101;&#98;&#x6d;&#x61;&#115;&#116;&#101;&#x72;&#x40;&#99;&#110;&#x70;&#x6f;&#108;&#x69;&#116;&#105;&#x63;&#115;&#x2e;&#111;&#x72;&#103;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="external">cnpolitics2011</a>，与我们交流。</p>
 
       ]]></content:encoded>
       
