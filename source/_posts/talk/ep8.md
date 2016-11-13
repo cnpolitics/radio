@@ -4,7 +4,7 @@ subtitle:
 date: 2016/11/12 16:05:00
 permalink: ep8
 author: 路遥 刘冉 刘唯玮
-audio: http://radio-static.cnpolitics.org/talk/audio/ep8-.mp3
+audio: http://radio-static.cnpolitics.org/talk/audio/ep8-new.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
 categories:
