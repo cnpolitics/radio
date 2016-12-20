@@ -3,7 +3,7 @@ title: "#7：谁说奥运和政治无关？"
 subtitle: 
 date: 2016/08/06 20:30:00
 permalink: ep7
-author: 马军、宿亮、竹溪
+author: 马军, 宿亮, 竹溪
 audio: http://radio-static.cnpolitics.org/talk/audio/ep7.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

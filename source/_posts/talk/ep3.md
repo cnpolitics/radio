@@ -3,7 +3,7 @@ title: "#3：想减肥、想戒烟，你应该这么做"
 subtitle: 怎样说服自己和他人拥有更健康的生活方式
 date: 2016/05/19 20:30:00
 permalink: ep3
-author: 方可成、张竞文、杨思佳
+author: 方可成, 张竞文, 杨思佳
 audio: http://radio-static.cnpolitics.org/talk/audio/ep3.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

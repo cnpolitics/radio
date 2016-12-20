@@ -3,7 +3,7 @@ title: "#8：在里约逛贫民窟是一种怎样的体验？"
 subtitle: 
 date: 2016/11/13 09:05:00
 permalink: ep8
-author: 路遥 刘冉 刘唯玮
+author: 路遥, 刘冉, 刘唯玮
 audio: http://radio-static.cnpolitics.org/talk/audio/ep8-update.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

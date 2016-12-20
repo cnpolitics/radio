@@ -3,7 +3,7 @@ title: "#5：粉丝不一定脑残，粉丝也能改变社会"
 subtitle: 
 date: 2016/05/31 10:30:00
 permalink: ep5
-author: 马军、张玮玉、卢恬
+author: 马军, 张玮玉, 卢恬
 audio: http://radio-static.cnpolitics.org/talk/audio/ep5.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
