@@ -3,7 +3,7 @@ title: "#2：欧洲恐怖主义问题和难民问题，原来是这么回事！"
 subtitle: 
 date: 2016/05/02 20:30:00
 permalink: ep2
-author: 马军、陶郁、宿亮
+author: 马军, 陶郁, 宿亮
 audio: http://radio-static.cnpolitics.org/talk/audio/ep2.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

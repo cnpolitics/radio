@@ -3,7 +3,7 @@ title: "#9：在一个狂欢的小时代，做书店是情怀还是生意？"
 subtitle: 
 date: 2016/11/10 20:30:00
 permalink: ep9
-author: 王菁、小武老师
+author: 王菁, 小武老师
 audio: http://radio-static.cnpolitics.org/talk/audio/ep9.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

@@ -3,7 +3,7 @@ title: "#1：英国想要退出欧盟，原来是这么回事！"
 subtitle: 2016年6月23日，英国全民公投
 date: 2016/04/19 20:30:00
 permalink: ep1
-author: 马军、陶郁、宿亮
+author: 马军, 陶郁, 宿亮
 audio: http://radio-static.cnpolitics.org/talk/audio/ep1.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

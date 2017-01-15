@@ -3,7 +3,7 @@ title: "#4：真实的犹太人：聪明绝顶？商业天才？"
 subtitle: 我们请到了一位犹太人来亲身讲述
 date: 2016/05/25 20:30:00
 permalink: ep4
-author: 方可成、Maria、邓哲远
+author: 方可成, Maria, 邓哲远
 audio: http://radio-static.cnpolitics.org/talk/audio/ep4.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg

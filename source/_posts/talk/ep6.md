@@ -3,7 +3,7 @@ title: "#6：维和部队：美国为何不愿参加？中国应该继续派人�
 subtitle: 维和部队原来是做这些事情的
 date: 2016/07/20 20:30:00
 permalink: ep6
-author: 路瑶、归宿、宿亮
+author: 路瑶, 归宿, 宿亮
 audio: http://radio-static.cnpolitics.org/talk/audio/ep6.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/talk-cover1400-v1.0.jpg
