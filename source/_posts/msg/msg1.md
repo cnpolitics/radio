@@ -6,7 +6,7 @@ permalink: msg1
 author: CNPolitics
 audio: http://radio-static.cnpolitics.org/moving.mp3
 explicit: no
-cover: http://cnpolitics.github.io/radio/assets/cover/meme-cover1400-v1.0.jpg
+cover: http://cnpolitics.github.io/radio/assets/cover/cnpolitics-cover1400-v1.0.png
 categories:
 - 通知
 tags:
