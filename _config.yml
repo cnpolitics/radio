@@ -51,6 +51,7 @@ highlight:
 default_category: uncategorized
 category_map:
   政正有词: meme
+  针尖·多味听觉馆: mig
   政记干货大排档: pub
   政好读书: read
   讲座 & 访谈: scholar
@@ -58,6 +59,7 @@ category_map:
   通知: msg
 tag_map:
   政正有词: meme
+  针尖·多味听觉馆: mig
   政记干货大排档: pub
   政好读书: read
   讲座 & 访谈: scholar
@@ -116,6 +118,16 @@ podcast:
     email: webmaster@cnpolitcs.org
     description: 打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。
     copyright: 政见 CNPolitics.org
+  mig:
+    title: 针尖·多味听觉馆
+    subtitle: The MIG | CNPolitcs Radio
+    url: http://cnpolitics.github.io/radio/mig
+    feed: http://cnpolitics.github.io/radio/mig/feed.xml
+    cover: http://cnpolitics.github.io/radio/assets/cover/zijian-cover1400-v1.0.jpg
+    author: MIG
+    email: webmaster@cnpolitcs.org
+    description: 用多滋多味的声音喂养耳朵，丰富头脑，戳破泡泡。针尖出品。
+    copyright: 针尖 zjian.org & 政见 CNPolitics.org
   pub:
     title: 政见｜政记干货大排档
     subtitle: The Pub | CNPolitcs Radio
