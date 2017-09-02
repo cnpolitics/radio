@@ -3,7 +3,7 @@ title: "#1：大马初印象：这个模范生好 fancy"
 subtitle: 感受东南亚的氤氲暑气和西北的苍茫大地
 date: 2017/08/30 18:50:00
 permalink: ep1
-author: 鸽子
+author: 鸽子, 小水母
 audio: http://radio-static.cnpolitics.org/mig/audio/ep1.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/zjian-cover1400-v1.0.jpg
