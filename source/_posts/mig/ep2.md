@@ -36,4 +36,4 @@ tags:
 - [马哈蒂尔·本·穆罕默德：《马来人的困境》](https://en.wikipedia.org/wiki/The_Malay_Dilemma)
 - [独立中学相关文章](https://asean.thenewslens.com/article/40766)
 
-欢迎关注微信公众号针尖（zjian），也可以在豆瓣、网易云音乐、Apple Podcasts 各个平台找到我们。如果你有想说的，可以留言或搜索添加微信号 soundcommune， 加入针尖多味听觉馆听众群，与我们一起戳破泡泡。
+欢迎关注微信公众号针尖（zjianorg），也可以在豆瓣、网易云音乐、Apple Podcasts 各个平台找到我们。如果你有想说的，可以留言或搜索添加微信号 soundcommune， 加入针尖多味听觉馆听众群，与我们一起戳破泡泡。

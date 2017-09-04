@@ -40,4 +40,4 @@ tags:
 - [奈保尔《信徒的国度》](https://book.douban.com/subject/25876615/)
 - [Robert D. Kaplan 的文章](https://asean.thenewslens.com/article/46734)
 
-欢迎关注微信公众号针尖（zjian），也可以在豆瓣、网易云音乐、Apple Podcasts 各个平台找到我们。如果你有想说的，可以留言或搜索添加微信号 soundcommune， 加入针尖多味听觉馆听众群，与我们一起戳破泡泡。
+欢迎关注微信公众号针尖（zjianorg），也可以在豆瓣、网易云音乐、Apple Podcasts 各个平台找到我们。如果你有想说的，可以留言或搜索添加微信号 soundcommune， 加入针尖多味听觉馆听众群，与我们一起戳破泡泡。
