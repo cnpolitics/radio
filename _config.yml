@@ -129,15 +129,15 @@ podcast:
     description: 用多滋多味的声音喂养耳朵，丰富头脑，戳破泡泡。针尖出品。
     copyright: 针尖 zjian.org & 政见 CNPolitics.org
   pub:
-    title: 政见｜政记干货大排档
+    title: 针尖·多味听觉馆
     subtitle: The Pub | CNPolitcs Radio
     url: http://cnpolitics.github.io/radio/pub
     feed: http://cnpolitics.github.io/radio/pub/feed.xml
-    cover: http://cnpolitics.github.io/radio/assets/cover/pub-cover1400-v1.0.jpg
-    author: 政见 CNPolitics.org
+    cover: http://cnpolitics.github.io/radio/assets/cover/zijian-cover1400-v1.0.jpg
+    author: MIG
     email: webmaster@cnpolitcs.org
-    description: 知识就像爱与美食，不可或缺，不能辜负。我们把最新的时事和最有意思的知识结合，为你送上新鲜的干货。政见 CNPolitics 出品。
-    copyright: 政见 CNPolitics.org
+    description: 用多滋多味的声音喂养耳朵，丰富头脑，戳破泡泡。针尖出品。
+    copyright: 针尖 zjian.org & 政见 CNPolitics.org
   read:
     title: 政见｜政好读书
     subtitle: The Read | CNPolitcs Radio
