@@ -2,7 +2,7 @@
 title: "#6：摄像头能帮助我们更好地预防性暴力的发生吗？"
 subtitle: 孩子，这个世界会为你变好吗？
 date: 2017/11/29 16:00:00
-permalink: ep5
+permalink: ep6
 author: 小水母, 任珏
 audio: http://radio-static.cnpolitics.org/mig/audio/ep6.mp3
 explicit: no
