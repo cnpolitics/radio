@@ -4,7 +4,7 @@ subtitle: 二师兄的平凉记忆
 date: 2017/09/19 20:15:00
 permalink: ep3
 author: 小水母, 二师兄
-audio: http://radio-static.cnpolitics.org/mig/audio/ep3.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep3.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/zjian-cover1400-v1.0.jpg
 categories:

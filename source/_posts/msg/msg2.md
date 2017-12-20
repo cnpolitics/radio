@@ -4,7 +4,7 @@ subtitle: 播客网址迁移
 date: 2017/07/17 22:00:00
 permalink: msg2
 author: CNPolitics
-audio: http://radio-static.cnpolitics.org/mig-teaser.mp3
+audio: http://radio-static.zjian.org/mig-teaser.mp3
 explicit: no
 cover: http://cnpolitics.github.io/radio/assets/cover/cnpolitics-cover1400-v1.0.png
 categories:

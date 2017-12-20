@@ -4,7 +4,7 @@ subtitle: 孩子，这个世界会为你变好吗？
 date: 2017/11/29 16:00:00
 permalink: ep6
 author: 小水母, 任珏
-audio: http://radio-static.cnpolitics.org/mig/audio/ep6.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep6.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/zjian-cover1400-v1.0.jpg
 categories:

@@ -4,7 +4,7 @@ subtitle: 在大马的华人是怎样的存在
 date: 2017/09/03 18:50:00
 permalink: ep2
 author: 鸽子, 小水母
-audio: http://radio-static.cnpolitics.org/mig/audio/ep2.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep2.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/zjian-cover1400-v1.0.jpg
 categories:
