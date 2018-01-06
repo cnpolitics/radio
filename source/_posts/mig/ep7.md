@@ -6,7 +6,7 @@ permalink: ep7
 author: 小水母, 钱霖亮
 audio: http://radio-static.zjian.org/mig/audio/ep7.mp3
 explicit: no
-cover: http://radio.cnpolitics.org/assets/cover/zjian-cover1400-v1.0.jpg
+cover: http://cnpolitics.github.io/radio/assets/cover/zijian-cover1400-v1.0.jpg
 categories:
 - 针尖·多味听觉馆
 tags:
