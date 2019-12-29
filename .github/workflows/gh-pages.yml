@@ -11,20 +11,12 @@ jobs:
         with:
           args: clean
 
-      - name: Generate
-        uses: heowc/action-hexo@master
-        with:
-          args: generate
+      - name: Build
+        run: hexo generate
+
       - name: Deploy
-        uses: heowc/action-hexo@master
+        uses: peaceiris/actions-gh-pages@v2.5.0
         env:
-          EMAIL: input emial ...
-          NAME: input name ...
-        with:
-          args: deploy
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v2.5.0
-      #   env:
-      #     PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-      #     PUBLISH_BRANCH: gh-pages
-      #     PUBLISH_DIR: ./public
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
