@@ -1,0 +1,12 @@
+version: '2'
+services:
+  radio:
+    container_name: radio
+    image: node:10
+    working_dir: /home/node/app
+    ports:
+      - "1201:1200"
+    restart: always
+    volumes:
+      - ./:/home/node/app
+    command: ["tail", "-f", "/dev/null"]

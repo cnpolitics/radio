@@ -4,7 +4,7 @@ subtitle: 面对灾难，我们需要做什么，又要警惕什么？
 date: 2016/04/25 20:30:00
 permalink: ep5
 author: 王菁
-audio: http://radio-static.cnpolitics.org/pub/audio/ep5.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep5.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:

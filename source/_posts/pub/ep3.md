@@ -4,7 +4,7 @@ subtitle: 从司法文化理解欧美对足球截然不同的态度
 date: 2016/04/04 20:30:00
 permalink: ep3
 author: 王菁
-audio: http://radio-static.cnpolitics.org/pub/audio/ep3.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep3.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:

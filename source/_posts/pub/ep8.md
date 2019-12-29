@@ -4,7 +4,7 @@ subtitle:
 date: 2016/05/13 20:30:00
 permalink: ep8
 author: 王菁
-audio: http://radio-static.cnpolitics.org/pub/audio/ep8.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep8.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:

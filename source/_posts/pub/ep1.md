@@ -4,7 +4,7 @@ subtitle: 政党低迷期领袖之位吸引力不高、女性更容易上位？
 date: 2016/03/27 20:30:00
 permalink: ep1
 author: 王菁
-audio: http://radio-static.cnpolitics.org/pub/audio/ep1.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep1.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:

@@ -4,7 +4,7 @@ subtitle: 一时间，真假球迷难辨，成就了全民足球盛宴的 “假
 date: 2016/03/31 20:30:00
 permalink: ep2
 author: 王菁, 王韬
-audio: http://radio-static.cnpolitics.org/pub/audio/ep2.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep2.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:

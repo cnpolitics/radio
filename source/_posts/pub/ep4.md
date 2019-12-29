@@ -4,7 +4,7 @@ subtitle: 来自华南师范大学钱俊希教授有关广州取缔摩的的深�
 date: 2016/04/10 20:30:00
 permalink: ep4
 author: 王菁, 谭宏泽
-audio: http://radio-static.cnpolitics.org/pub/audio/ep4.mp3
+audio: http://radio-static.zjian.org/mig/audio/ep4.mp3
 explicit: no
 cover: http://radio.cnpolitics.org/assets/cover/pub-cover1400-v1.0.jpg
 categories:
