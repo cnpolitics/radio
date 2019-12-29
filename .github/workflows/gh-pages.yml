@@ -11,8 +11,8 @@ jobs:
 
       - name: setup node
         users: actions/setup-node@v1
-          with:
-            node-version: 10.x
+        with:
+          node-version: 10.x
 
       - name: Setup Hexo
         uses: heowc/action-hexo@master
