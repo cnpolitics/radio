@@ -10,9 +10,14 @@ jobs:
         uses: heowc/action-hexo@master
         with:
           args: clean
+      - name: Setup Hexo
+        uses: heowc/action-hexo@master
+        with:
+          args: generate
 
       - name: Build
-        run: npm install hexo -g && npm install && hexo generate
+        run: npm install && hexo generate
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2.5.0
         env:
