@@ -6,20 +6,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-
-      - uses: actions/setup-node@master
+      - name: Clean
+        uses: heowc/action-hexo@master
         with:
-          node-version: 8.x
-          
-      - name: Installation
-        run: |
-          npm install
-          npm install -g hexo-cli
-
+          args: clean
+      - name: Generate
+        uses: heowc/action-hexo@master
+        with:
+          args: generate
       - name: Deploy
-        uses: yrpang/github-actions-hexo@master
+        uses: heowc/action-hexo@master
+        env:
+          EMAIL: plantpark.net@gmail.com
+          NAME: Tony Wang
         with:
-          deploykey: ${{secrets.DEPLOY_KEY}}
-          username: Tony Wang
-          email: plantpark.net@gmail.com
+          args: deploy
