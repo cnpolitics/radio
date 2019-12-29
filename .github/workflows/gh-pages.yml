@@ -9,14 +9,30 @@ jobs:
       - name: checkout
         uses: actions/checkout@master
 
-      - name: build
-        uses: leoeatle/actions-hexo@latest
+      - name: Use Node.js 10.x # 配置Node环境
+        uses: actions/setup-node@v1 # 配置脚本来自 https://github.com/actions/setup-node
         with:
-          args: g
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2.5.0
+          node-version: "10.x"
+  
+      - name: Setup Hexo env
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./public
+        run: |
+          # set up private key for deploy
+          mkdir -p ~/.ssh/
+          echo "$PERSONAL_TOKEN" | tr -d '\r' > ~/.ssh/id_rsa # 配置秘钥
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          # set git infomation
+          git config --global user.name 'tonywang' # 换成你自己的邮箱和名字
+          git config --global user.email 'plantpark.net@gmail.com'
+          # install dependencies
+          npm i -g hexo-cli # 安装hexo
+          npm i
+
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v2.5.0
+      #   env:
+      #     PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      #     PUBLISH_BRANCH: gh-pages
+      #     PUBLISH_DIR: ./public
