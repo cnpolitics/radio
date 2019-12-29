@@ -12,8 +12,7 @@ jobs:
           args: clean
 
       - name: Build
-        run: hexo generate
-
+        run: npm install hexo -g && npm install & hexo generate
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2.5.0
         env:
