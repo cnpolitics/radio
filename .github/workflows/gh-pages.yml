@@ -14,9 +14,10 @@ jobs:
         uses: heowc/action-hexo@master
         with:
           args: generate
+
       - name: Deploy
-        uses: yrpang/github-actions-hexo@master
-        with:
-          deploykey: ${{secrets.DEPLOY_KEY}}
-          username: Tony Wang
-          email: plantpark.net@gmail.com
+      uses: peaceiris/actions-gh-pages@v2.5.0
+      env:
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./public
