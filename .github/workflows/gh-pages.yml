@@ -15,9 +15,8 @@ jobs:
         with:
           args: generate
       - name: Deploy
-        uses: heowc/action-hexo@master
-        env:
-          EMAIL: plantpark.net@gmail.com
-          NAME: Tony Wang
+        uses: yrpang/github-actions-hexo@master
         with:
-          args: deploy
+          deploykey: ${{secrets.DEPLOY_KEY}}
+          username: Tony Wang
+          email: plantpark.net@gmail.com
