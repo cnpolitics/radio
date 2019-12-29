@@ -20,6 +20,9 @@ jobs:
           npm i -g hexo-cli # 安装hexo
           npm i
 
+      - name: Build
+        run: hexo generate
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2.5.0
         env:
